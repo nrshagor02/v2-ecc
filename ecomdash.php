@@ -6,7 +6,7 @@
 
 
 <section>
-<div class="amazon-container-hero mobile-hide tablet-hide">
+<div class="amazon-container-hero multichannel-bg-color mobile-hide tablet-hide">
         <div class="amazon-row-hero">
             <div class="amazon-hero-bg-left">
                 <div class="amazon-hero-text">
@@ -61,14 +61,16 @@
     </div>
             <!--mobile fahim -->
 <div class="mobile-dm-container mobile-multichannel-container mobile-show tablet-hide">
-        <h3>Grow profits quickly on Ecomdash</h3>
-        <h1>Elevate Your Sales <br>
-                                with Ecomdash
-                                Service</h1>
-        <p class="m-dm-hero-text">Ecomdash Multichannel Service management provides an all-in-one solution
-                                for businesses to manage and synchronize their inventory, orders, 
-                                and shipping across multiple sales channels such as Amazon, eBay, Shopify, 
-                                BigCommerce, and more. </p>
+            <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">        
+                    <h3>Grow profits quickly on Ecomdash</h3>
+                            <h1>Elevate Your Sales <br>
+                                                    with Ecomdash
+                                                    Service</h1>
+                            <p class="m-dm-hero-text">Ecomdash Multichannel Service management provides an all-in-one solution
+                                                    for businesses to manage and synchronize their inventory, orders, 
+                                                    and shipping across multiple sales channels such as Amazon, eBay, Shopify, 
+                                                    BigCommerce, and more. </p>
+            </div>
         <img src="./images/ppc/pcc-mobile-img.png" class="mobile-hero-bg" alt="">
 
         <div class="m-dm-hero-card">
@@ -89,14 +91,16 @@
 <!--mobile fahim -->
 <!-- tablet---fahim -->
 <div class="tablet-dm-container tablet-multichannel-container mobile-hide tablet-show">
-        <h3>Grow profits quickly on Ecomdash</h3>
-        <h1>Elevate Your Sales <br>
-                                with Ecomdash
-                                Service</h1>
-        <p class="m-dm-hero-text">Ecomdash Multichannel Service management provides an all-in-one solution
-                                for businesses to manage and synchronize their inventory, orders, 
-                                and shipping across multiple sales channels such as Amazon, eBay, Shopify, 
-                                BigCommerce, and more. </p>
+            <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">        
+                    <h3>Grow profits quickly on Ecomdash</h3>
+                            <h1>Elevate Your Sales <br>
+                                                    with Ecomdash
+                                                    Service</h1>
+                            <p class="m-dm-hero-text">Ecomdash Multichannel Service management provides an all-in-one solution
+                                                    for businesses to manage and synchronize their inventory, orders, 
+                                                    and shipping across multiple sales channels such as Amazon, eBay, Shopify, 
+                                                    BigCommerce, and more. </p>
+            </div>
         <div class="t-dm-hero-content">
             <div class="t-dm-hero-left">
                 <div class="t-dm-hero-card">

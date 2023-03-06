@@ -6,8 +6,17 @@
   display: none;
 }
 .amazon-container-hero {
-  background-color: #c9d8ff;
   padding: 20vh 0px;
+}
+.datamanagement-container-hero {
+  padding-top: 5vh;
+  padding-bottom: 10vh;
+}
+.multichannel-bg-color {
+  background-color: #c9d8ff;
+}
+.data-management-bg-color {
+  background-color: #d0cef7;
 }
 .device-desktop-bg {
   margin-left: 40px;
@@ -22,6 +31,13 @@
 .amazon-hero-bg-left {
   flex-basis: 50%;
   margin-top: 60px;
+}
+.data-management-container-left {
+  flex-basis: 40%;
+  margin-top: 20vh;
+}
+.data-management-container-right {
+  flex-basis: 60%;
 }
 .amazon-hero-bg-right {
   flex-basis: 50%;
@@ -676,6 +692,14 @@ a {
     justify-content: space-between;
     margin: 25px 85px;
   }
+  .t-dm-amazon-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  .t-dm-hero-left {
+    margin-top: 50px;
+    margin-left: 85px;
+  }
   .we-can-container {
     padding-top: 2vh;
     padding-bottom: 2vh;
@@ -732,7 +756,12 @@ a {
     top: 720px !important;
     right: 30vw;
   }
-
+  .t-dm-hero-right {
+    flex-basis: 60%;
+  }
+  .t-dm-hero-right img {
+    width: 100%;
+  }
   .t-we-can-container {
     padding-bottom: 145px;
   }
@@ -767,5 +796,9 @@ a {
     width: 100%;
     padding-top: 40px;
     padding-right: 30px;
+  }
+  .amazon-data-management {
+    justify-content: center;
+    gap: 10vw;
   }
 }

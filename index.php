@@ -767,20 +767,23 @@
                             <div class="ecommerce-body">
                                 <p>All-in-One eCommerce Solution</p>
                                 <h2>Why we are best in <br> <span>e-commerce</span> world? </h2>
-                                <p>91% of our clients see a meaningful increase in account sales performance within 30
+                                <p class="e-commerce-text">91% of our clients see a meaningful increase in account sales performance within 30
                                     days after adding A+ content designed by us. Please keep in mind that your
                                     particular success rate may differ due to a variety of individual factors (i.e. PPC,
                                     SEO), which may increase or decrease your chances for success.</p>
                             </div>
                         </div>
                         <div class="item">
-                            <div class="owl-icon-image-ecom2">
+                            <div class="owl-icon-image-ecom2 tablet-hide">
                                 <img src="images/datamanagement/e-commerce-2.png" alt="">
+                            </div>
+                            <div class="owl-icon-image-ecom2 tablet-show">
+                                <img class="tablet-ecommerce" src="images/datamanagement/tablet-ecommerce-2.png" alt="">
                             </div>
                             <div class="ecommerce-body">
                                 <p>Why we are best in ecommerce world?</p>
-                                <h2>We Have 3Steep <br> Work process</h2>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing
+                                <h2>We Have <span> 3 Step <br> Work process </span></h2>
+                                <p class="e-commerce-text">Lorem ipsum dolor sit amet, consetetur sadipscing
                                     elitr, sed diam nonumy eirmod tempor invidunt ut
                                     labore et dolore magna aliquyam erat, sed diam
                                     voluptua. At vero eos et accusam et justo duo dolores
@@ -794,9 +797,10 @@
                                 <!-- <img src="images/datamanagement/e-commerce-3.png" alt=""> -->
                                 <div class="filter-left">
                                     <div class="filter-left-left">
-                                        <img src="images/img-1/filter.png" alt="">
+                                        <img src="images/img-1/filter-mobile-image.png" alt="">
                                     </div>
-                                    <div class="filter-left-right">
+
+                                    <!-- <div class="filter-left-right">
                                         <span class="filter-line" id="filter-icon-line"></span>
                                         <div class="filter-icon-1">
                                             <div class="filter-progress-1"> </div>
@@ -810,13 +814,13 @@
                                             <div class="filter-progress-3"> </div>
                                             <p>Designer Work</p>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="ecommerce-body">
                                 <p>Why we are best in ecommerce world?</p>
-                                <h2>We are working <br> filter Process</h2>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing
+                                <h2>We are working <br> <span> Filter Process </span></h2>
+                                <p class="e-commerce-text">Lorem ipsum dolor sit amet, consetetur sadipscing
                                     elitr, sed diam nonumy eirmod tempor invidunt ut
                                     labore et dolore magna aliquyam erat, sed diam
                                     voluptua. At vero eos et accusam et justo duo dolores
@@ -831,8 +835,8 @@
                             </div>
                             <div class="ecommerce-body">
                                 <p>Why we are best in ecommerce world?</p>
-                                <h2>Our Expert work <br> Competitor analysis</h2>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing
+                                <h2>Our Expert work <br> <span> Competitor analysis </span></h2>
+                                <p class="e-commerce-text">Lorem ipsum dolor sit amet, consetetur sadipscing
                                     elitr, sed diam nonumy eirmod tempor invidunt ut
                                     labore et dolore magna aliquyam erat, sed diam
                                     voluptua. At vero eos et accusam et justo duo dolores
@@ -847,8 +851,8 @@
                             </div>
                             <div class="ecommerce-body">
                                 <p>Why we are best in ecommerce world?</p>
-                                <h2>We are use an update <br> Technology.</h2>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing
+                                <h2>We are use an <span> update <br> Technology. </span></h2>
+                                <p class="e-commerce-text">Lorem ipsum dolor sit amet, consetetur sadipscing
                                     elitr, sed diam nonumy eirmod tempor invidunt ut
                                     labore et dolore magna aliquyam erat, sed diam
                                     voluptua. At vero eos et accusam et justo duo dolores
@@ -1145,40 +1149,40 @@
                     labore et dolore magna aliquyam erat.</p>
             </div>
             <div class="mobile-brand-body mobile-brand-flex">
-                <div>
+                <div class="brand-border-1">
                     <img src="images/Image-2/tecttect.png" alt="">
                 </div>
-                <div>
+                <div class="brand-border-1">
                     <img src="images/Image-2/goldenfox-logo.png" alt="">
                 </div>
-                <div>
+                <div class="brand-border-1">
                     <img src="images/Image-2/sartexlogocolours.png" alt="">
                 </div>
-                <div>
+                <div class="brand-border-2">
                     <img src="images/Image-2/dynamo.png" alt="">
                 </div>
-                <div>
+                <div  class="brand-border-2">
                     <img src="images/Image-2/rocksolar.png" alt="">
                 </div>
-                <div>
+                <div  class="brand-border-2">
                     <img src="images/Image-2/Dreibach-2-01.png" alt="">
                 </div>
-                <div>
+                <div  class="brand-border-3">
                     <img src="images/Image-2/urbanxlogo.png" alt="">
                 </div>
-                <div>
+                <div class="brand-border-3">
                     <img src="images/Image-2/homecity.png" alt="">
                 </div>
-                <div>
+                <div class="brand-border-3">
                     <img src="images/Image-2/Garden-Mile-horisontal-logo.png" alt="">
                 </div>
-                <div>
+                <div class="brand-border-4">
                     <img src="images/Image-2/impress.png" alt="">
                 </div>
-                <div>
+                <div class="brand-border-4">
                     <img src="images/Image-2/shopango.png" alt="">
                 </div>
-                <div>
+                <div class="brand-border-4">
                     <img src="images/Image-2/inline-logo-1.png" alt="">
                 </div>
             </div>

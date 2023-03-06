@@ -2201,6 +2201,9 @@ span.biram-chinno-rev {
     margin-left: auto;
     margin-right: auto;
   }
+  .tablet-hide {
+    display: none;
+  }
 
   /* .review-container {
     width: 1522px;
@@ -2235,7 +2238,9 @@ span.biram-chinno-rev {
   .home-desktop-hide {
     display: block;
   }
-
+  .tablet-show {
+    display: block;
+  }
   .home-mobile-hide {
     display: none;
   }
@@ -2256,7 +2261,7 @@ span.biram-chinno-rev {
     padding: 134px 0px 100px 0px;
   }
   .home-navber .content {
-    padding: 0px 32px;
+    padding: 0px 66px;
   }
   .hero-middle-button {
     margin: 43px auto auto auto;
@@ -2397,7 +2402,7 @@ span.biram-chinno-rev {
   }
 
   .owl-icon-image-ecom2 {
-    width: 85px;
+    width: 600px;
     margin-bottom: 20px;
   }
   .owl-icon-image-ecom3 {
@@ -2425,7 +2430,10 @@ span.biram-chinno-rev {
     line-height: 37px;
     font-family: RalewayBlod;
   }
-
+  .e-commerce-text {
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
   .ecommerce-body h2 span {
     color: #0b83fe;
   }
@@ -2442,7 +2450,7 @@ span.biram-chinno-rev {
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    left: 40vw;
+    left: 38vw;
     bottom: -34px;
     opacity: 1;
   }
@@ -2464,7 +2472,7 @@ span.biram-chinno-rev {
     width: 40px;
     border-radius: 50%;
     font: inherit;
-    right: 40vw;
+    right: 38vw;
     bottom: -34px;
     font-size: 45px;
     font-weight: 300;
@@ -3412,6 +3420,7 @@ span.biram-chinno-rev {
     font-size: 23px;
     line-height: 27px;
     font-family: RalewayBlod;
+    margin: 3px 0px 8px 0px;
   }
 
   .ecommerce-body h2 span {
@@ -3483,9 +3492,17 @@ span.biram-chinno-rev {
   .mobile-brand-body div {
     /* background-color: red; */
     padding: 10px;
-    border: 1px solid rgb(234 234 234);
     height: 50px;
     width: 110px;
+  }
+  .brand-border-1,
+  .brand-border-2,
+  .brand-border-3 {
+    border-bottom: 1px solid rgb(234 234 234);
+  }
+
+  .mobile-brand-body div:not(:nth-child(3n)) {
+    border-right: 1px solid rgb(234 234 234);
   }
 
   .mobile-brand-header h2 {
@@ -3499,6 +3516,8 @@ span.biram-chinno-rev {
     font-size: 12px;
     font-family: AcehLight;
     line-height: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
   }
 
   /* ------------------------------------- */

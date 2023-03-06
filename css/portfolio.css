@@ -1,0 +1,132 @@
+.portfolio-bg {
+  background-color: #ffffff;
+  margin-bottom: -180px;
+}
+
+.portfolio-container {
+  margin-left: 9vw;
+  margin-right: 8vw;
+  padding-top: 15vh;
+  padding-bottom: 12vh;
+}
+
+.portfolio-row {
+  display: flex;
+  /* gap: 5vw; */
+  justify-content: space-between;
+}
+
+.portfolio-left-header p {
+  font-size: 30px;
+  line-height: 40px;
+  font-family: AcehLight;
+  color: #727272;
+}
+
+.portfolio-left-header h1 {
+  font-size: 40px;
+  line-height: 44px;
+  font-family: RalewayBlod;
+  color: #535353;
+}
+
+.portfolio-left-header h1 span {
+  color: #0b83fe;
+}
+
+.portfolio-left-menu {
+  margin-top: 151px;
+}
+
+.portfolio-left-menu h4 {
+  font-size: 30px;
+  line-height: 40px;
+  font-family: AcehRegular;
+  color: #727272;
+  margin-bottom: -10px;
+}
+
+.portfolio-left {
+  flex-basis: 25%;
+}
+
+.portfolio-right {
+  flex-basis: 70%;
+}
+
+.portfolio-right img {
+  height: 100%;
+  width: 100%;
+}
+.portfolio-image {
+  margin-bottom: 18px;
+}
+
+.portfolio-image p {
+  font-size: 20px;
+  font-family: Acehlight;
+  line-height: 27px;
+  color: #727272;
+  cursor: pointer;
+}
+
+.shop-margin {
+  margin-bottom: 40px;
+}
+
+.portfolio-middle-button {
+  margin-top: 40px;
+  position: relative;
+  height: 50px;
+  width: 300px;
+  border-radius: 36px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.portfolio-middle-btnText {
+  background-color: #25272d;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 22px;
+  line-height: 30px;
+  font-family: AcehRegular;
+  color: #ffffff;
+}
+
+.portfolio-middle-btnTwo {
+  position: absolute;
+  top: 0;
+  left: -300px;
+  transition: all 0.6s;
+}
+
+.portfolio-middle-btnText2 {
+  background-color: #0b83fe;
+  height: 50px;
+  width: 300px;
+  border-radius: 36px;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 22px;
+  line-height: 30px;
+  font-family: AcehRegular;
+  color: #ffffff;
+}
+
+.portfolio-middle-button:hover .portfolio-middle-btnTwo {
+  left: 0;
+}
+
+.carousel-indicators.portfolio-btn {
+  top: -65px;
+}
+
+.portfolio-btn button {
+  background: #707070 !important;
+}
+
+.portfolio-image .active {
+  color: #0b83fe;
+}

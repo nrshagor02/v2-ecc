@@ -1,0 +1,193 @@
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.pricing-container {
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+.pricing-row {
+  display: flex;
+  gap: 3vw;
+  flex-wrap: wrap;
+}
+
+.pricing-left {
+  flex: 25%;
+  position: fixed;
+  width: 325px;
+  margin-top: 6vh;
+  /* z-index: -1; */
+}
+
+.pricing-right {
+  flex: 75%;
+  margin-left: 401px;
+}
+
+.pricing-left-header h2 {
+  font-size: 40px;
+  font-family: RalewayBlod;
+  line-height: 44px;
+  color: #ffffff;
+  margin-bottom: 5vh;
+}
+
+.pricing-left-header span {
+  color: #0b83fe;
+}
+
+.pricing-left-list ul a li {
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+  font-family: AcehRegular;
+  list-style-type: none;
+  margin-bottom: 1.5vh;
+}
+
+.pricing-right-header {
+  text-align: center;
+  margin-bottom: 6vh;
+}
+
+.pricing-right-header p {
+  font-size: 18px;
+  line-height: 24px;
+  font-family: AcehRegular;
+  color: #ffffff;
+}
+
+.pricing-right-header h2 {
+  font-size: 30px;
+  font-family: RalewayBlod;
+  line-height: 40px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+.pricing-right-header h2 span {
+  color: #0b83fe;
+}
+
+.pricing-right-body {
+  display: flex;
+  gap: 1.5vw;
+  color: #ffffff;
+}
+
+.pricing-right-body .right-card {
+  flex: 30%;
+  background-color: #25272d;
+  border-radius: 35px;
+  padding: 5.1vh 2vw 7vh 2vw;
+}
+
+.card-list div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-list div img {
+  height: 15px;
+  width: 15px;
+  /* margin-top: -13px; */
+}
+
+.right-card h4 {
+  font-size: 20px;
+  line-height: 27px;
+  font-family: RalewayBlod;
+  margin-bottom: 6vh;
+}
+
+.pricing-amount {
+  text-align: center;
+  margin-top: 6.5vh;
+  margin-bottom: 6.5vh;
+}
+
+.pricing-amount h2 {
+  font-size: 40px;
+  line-height: 53px;
+  font-family: Aceh;
+}
+
+.card-list p {
+  margin-bottom: 0;
+  font-size: 18px;
+  line-height: 32px;
+  font-family: Aceh;
+}
+
+.button-align {
+  text-align: center;
+}
+
+.pricing-button {
+  background-color: #0b83fe;
+  border-radius: 15px;
+  height: 50px;
+  width: 180px;
+  color: white;
+  border: none;
+}
+
+.pricing-amount-right {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 3.5vh;
+}
+
+.card-list-right p {
+  font-size: 18px;
+  line-height: 25px;
+  font-family: Aceh;
+  margin-bottom: 5.3vh;
+}
+
+.right-card-3 h3 {
+  font-size: 20px;
+  line-height: 27px;
+  font-family: RalewayBlod;
+  color: #ffffff;
+}
+
+.hourly-p {
+  font-size: 12px;
+  line-height: 16px;
+  font-family: Aceh;
+  margin-bottom: 4.7vh;
+}
+
+.pricing-amount-right label {
+  font-family: RalewayBlod;
+  font-size: 20px;
+  line-height: 27px;
+  margin-left: 10px;
+}
+
+.pricing-amount-right span {
+  font-size: 40px;
+  line-height: 53px;
+  margin-left: 10px;
+  font-family: Aceh;
+}
+
+.margin-right-1 {
+  margin-top: 9vh;
+}
+.margin-right-2 {
+  margin-top: 11vh;
+}
+
+.set-active .active {
+  color: #0b83fe;
+}

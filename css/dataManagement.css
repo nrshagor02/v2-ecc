@@ -1,0 +1,125 @@
+.dataM-hero-bg {
+  background: linear-gradient(61deg, #5b0de2, #a800ff);
+  position: relative;
+  top: -76px;
+}
+
+.dataM-hero-right {
+  flex: 50%;
+  z-index: 1;
+  max-width: 619px;
+  max-height: 936px;
+  position: relative;
+  margin-top: 8vh;
+}
+
+.glass-effect-dataM {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 2px solid rgba(255, 255, 255, 0.61);
+  box-shadow: 0 14px 30px 0 rgb(0 0 0 / 8%);
+  padding: 14px 30px 14px 30px;
+  cursor: pointer;
+  animation-timing-function: ease;
+  animation-name: glass-position;
+  animation-iteration-count: infinite;
+  animation-delay: 100ms;
+  pointer-events: auto;
+  transition: all 0.4s ease 0s;
+}
+
+.glass-effect-dataM p {
+  font-size: 20px;
+  line-height: 27px;
+  color: white;
+  font-family: AcehSemiBold;
+}
+
+.data-position-1 {
+  position: absolute;
+  top: 120px;
+  left: 85px;
+  animation-duration: 10.5s;
+  text-align: center;
+  animation-duration: 11s;
+}
+
+.data-position-2 {
+  position: absolute;
+  bottom: 140px;
+  left: 65px;
+  animation-duration: 10.5s;
+  animation-duration: 11.5s;
+}
+
+.data-position-3 {
+  position: absolute;
+  top: 120px;
+  right: -90px;
+  animation-duration: 10.5s;
+  text-align: center;
+  animation-duration: 10.5s;
+}
+
+.data-position-4 {
+  position: absolute;
+  bottom: 120px;
+  right: -40px;
+  animation-duration: 10.5s;
+  text-align: center;
+  animation-duration: 12s;
+}
+
+.dataM-portfolio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.ecc-mt-15 {
+  margin-top: 15px;
+}
+
+.dataM-portfolio h4 {
+  font-size: 20px;
+}
+
+.dataM-portfolio-image-div {
+  /* width: 200px;
+    height: 206px; */
+  overflow: hidden;
+  position: relative;
+}
+
+.dataM-portfolio-image-div img {
+  max-height: 100%;
+  max-width: 100%;
+  transition: 0.5s all ease-in-out;
+}
+
+.dataM-portfolio-image-div:hover img {
+  transform: scale(1.1);
+}
+
+.dataM-portfolio-image-div:hover .portfolio-middle {
+  opacity: 1;
+}
+
+.dataM-portfolio-image-div:hover .portfolio-layer {
+  opacity: 0.6;
+}
+
+.ecc-ml-10 {
+  margin-left: 10px;
+}
+
+.ecc-mt-30 {
+  margin-top: 30px;
+}
+
+.ecc-mt-100 {
+  margin-top: 100px;
+}

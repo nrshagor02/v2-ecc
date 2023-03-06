@@ -5,28 +5,27 @@
 ?>
 
 <section>
-    <div class="amazon-container-hero mobile-hide tablet-hide">
+<div class="datamanagement-container-hero data-management-bg-color mobile-hide tablet-hide">
         <div class="amazon-row-hero">
-            <div class="amazon-hero-bg">
-                <img src="images/datamanagement/a-z-data-management.png" alt="" class="amazon-hero-bg-image">
+            <div class="data-management-container-left ">
                 <div class="amazon-hero-text">
                     <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
                         <h4>Grow profits quickly on Walmart</h4>
-                        <h2>A-Z Data Management for <br> Walmart Stores</h2>
+                        <h2>A-Z Data Management <br> for Walmart Stores</h2>
                     </div>
                     <p>Walmart, the world’s largest retailer, manages a massive amount of
-                        data related to its operations, customers, and supply chain.</p>
+                        data related to its operations, customers, and supply chain. </p>
                     <div class="amazon-hero-counter">
                         <div>
                             <h4>5+</h4>
-                            <p>Years of experience</p>
+                            <p>Years of Experience</p>
                         </div>
                         <div>
                             <h4>500+</h4>
                             <p>Project Completed</p>
                         </div>
                         <div>
-                            <h4>95+</h4>
+                            <h4>95%</h4>
                             <p>Positive Rating</p>
                         </div>
                     </div>
@@ -50,19 +49,22 @@
                     </div>
                 </div>
             </div>
+            <div class="data-management-container-right">
+             <img src="images/datamanagement/dataManagementBg.png" alt="" class="amazon-hero-bg-image">
+            </div>
         </div>
     </div>
 
 
     <!--mobile fahim -->
-    <div class="mobile-dm-container  mobile-show tablet-hide">
+    <div class="mobile-dm-container data-management-bg-color mobile-show tablet-hide">
 
         <h3>Grow profits quickly on Walmart</h3>
         <h1>A-Z Data Management <br> for Walmart Store</h1>
         <p class="m-dm-hero-text">Walmart, the world’s largest retailer, manages
             a massive amount of data related to its
             operations, customers, and supply chain.</p>
-        <img src="./images/datamanagement/mobile-hero-bg.png" class="mobile-hero-bg" alt="">
+        <img src="images/datamanagement/dataManagementBg.png" class="mobile-hero-bg" alt="">
         <div class="m-dm-hero-card-container">
             <div class="m-dm-hero-card">
                 <p class="m-dm-card-title">5+</p>
@@ -87,13 +89,12 @@
     <!--mobile fahim -->
 
     <!-- tablet---fahim -->
-    <div class="tablet-dm-container mobile-hide tablet-show">
+    <div class="tablet-dm-container data-management-bg-color mobile-hide tablet-show">
         <h3>Grow profits quickly on Walmart</h3>
-        <h1>A-Z Data Management <br> for Walmart Store</h1>
-        <p class="t-dm-hero-text">Walmart, the world’s largest retailer, manages
-            a massive amount of data related to its
-            operations, customers, and supply chain.</p>
-        <div class="t-dm-hero-content">
+        <h1>A-Z Data Management <br> for Walmart Stores</h1>
+        <p class="m-dm-hero-text">Walmart, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
+        <div class="t-dm-amazon-content">
             <div class="t-dm-hero-left">
                 <div class="t-dm-hero-card">
                     <p class="t-dm-card-title">5+</p>
@@ -107,15 +108,15 @@
                     <p class="t-dm-card-title">500+</p>
                     <p class="t-dm-card-text">Project Completion</p>
                 </div>
-                <button class="t-dm-button">Get free trail</button>
+                <button class="m-dm-button">Get free trail</button>
             </div>
             <div class="t-dm-hero-right">
-                <img src="./images/datamanagement/tab-hero-bg.png" alt="tablet">
+                <img src="images/datamanagement/tab-hero-bg.png" alt="tablet">
             </div>
-        </div>
+</div>
 
 
-    </div>
+</div>
 
     <!-- tablet---fahim -->
     <?php 
@@ -125,27 +126,25 @@
 
 
 <section>
-    <div class="we-can-container">
-        <div class="we-can-row">
-            <div class="we-can-left">
-                <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Whatever the product is</h4>
-                    <h2>We can make <br>
-                        <span>the best</span> out of it.
-                    </h2>
+<div class="we-can-container">       
+                <div class="we-can-title" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
+                    <h3>Whatever the product is</h3>
+                    <h1>We  can make   <br><span> the best</span> out of it.</h1>
                 </div>
-                <img src="images/datamanagement/devices1.png" alt="" class="amazon-hero-bg-image">
+                <div class="we-can-row">
+            <div class="we-can-left">
+            <img src="images/device/walmart-devices.png" alt=""  >
             </div>
             <div class="we-can-right">
-                <img src="images/datamanagement/growth-cart.png" alt="" class="amazon-hero-bg-image">
+                <img src="images/datamanagement/graph-ppc.png" alt="" >
             </div>
         </div>
     </div>
 </section>
 
 
-<section class="mobile-hide tablet-hide">
-    <div class="amazon-container driving-bg">
+<section >
+    <div class="amazon-container driving-bg mobile-hide tablet-hide">
         <div class="amazon-drive-row">
             <div class="driving-left">
                 <img src="images/datamanagement/driving_groth.png" alt="">
@@ -154,10 +153,10 @@
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
                     <h4>Why Choose Us</h4>
                     <h2>Driving Growth And Success
-                        For Your Amazon Business</h2>
+                        For Your Walmart Business</h2>
                 </div>
                 <p>Drawing on our extensive ecommerce experience, we offer end-to
-                    end Amazon Marketplace Management Services. Right from
+                    end Walmart Marketplace Management Services. Right from
                     account creation, management, product listings, cataloging,
                     brand content creation, and product optimization to advertising
                     and accounting, our service portfolio is designed to provide.</p>
@@ -182,6 +181,90 @@
             </div>
         </div>
     </div>
+</section>
+<section >
+    <!--mobile Design -->
+    <div class="m-choose-us-container mobile-show tablet-show">
+        <div class="ecom-row">
+            <div class="ecom-slider">
+                <div class="owl-slider">
+                    <div id="m-choose-dm" class="owl-carousel ecommerce-slider brand-owl dm-carousel-mb">
+                        <div class="item">
+                                <h3>Why choose us?</h3>
+                                <h1>Driving Growth And Success <br>
+                            For Your Walmart Business</h1>
+                            
+                                <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
+                            
+                                <div class="ecommerce-body text-dm-mobile">
+                                    <p class="m-dm-carousel-card-text">
+                                    Right from
+                                    account creation, management, product listings, cataloging,
+                                    brand content creation, and product optimization to advertising
+                                    and accounting, our service portfolio is designed to provide.
+                                    </p>
+                                </div>
+                          
+                        </div>
+                        <div class="item">
+                            <h3>In your Walmart growth strategy</h3>
+                            <h1>Walmart Store Audit</h1>
+                          
+                            <img src="images/datamanagement/mobile-amazon-audit.png"  class="mobile-carousel-dm-img" alt="">
+                           
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                91% of our clients see a meaningful increase in account sales
+                                performance within 30 days after adding A+ content designed
+                                by us. Please keep in mind that your particular success rate
+                                may differ due to a variety of individual factors (i.e. PPC, SEO),
+                                which may increase or decrease your chances for success.
+                                </p>
+                            </div>
+                          
+                        </div>
+                        <div class="item">
+                            <h3>In your Walmart growth strategy</h3>
+                            <h1>Walmart Listing Optimaiztions</h1>
+                         
+                            <img src="images/datamanagement/mobile-amazon-listing.png"  class="mobile-carousel-dm-img" alt="">
+                         
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                91% of our clients see a meaningful increase in account sales
+                                performance within 30 days after adding A+ content designed
+                                by us. Please keep in mind that your particular success rate
+                                may differ due to a variety of individual factors (i.e. PPC, SEO),
+                                which may increase or decrease your chances for success.
+                                </p>
+                            </div>
+                           
+                        </div>
+                        <div class="item">
+                            <h3>In your Walmart growth strategy</h3>
+                            <h1>Walmart virtual Assitant</h1>
+                         
+                            <img src="images/datamanagement/mobile-amazon-virtual.png"  class="mobile-carousel-dm-img" alt="">
+                        
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                91% of our clients see a meaningful increase in account sales
+                                performance within 30 days after adding A+ content designed
+                                by us. Please keep in mind that your particular success rate
+                                may differ due to a variety of individual factors (i.e. PPC, SEO),
+                                which may increase or decrease your chances for success.
+                                </p>
+                            </div>
+                          
+                        </div>
+                       
+                    </div>
+                    <button class="m-dm-button">Get free trail</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--mobile Design -->
 </section>
 
 <section class="mobile-hide tablet-hide">
@@ -301,94 +384,7 @@
 </section>
 
 
-<section class="home-desktop-hide">
-    <!--mobile Design -->
-    <div class="m-choose-us-container">
-        <div class="ecom-row">
-            <div class="ecom-slider">
-                <div class="owl-slider">
-                    <div id="m-choose-dm" class="owl-carousel ecommerce-slider-amazon brand-owl dm-carousel-mb">
-                        <div class="item">
-                            <h3>Why choose us?</h3>
-                            <h1>Transform Your <br>
-                                Amazon Sales </h1>
 
-                            <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
-
-                            <div class="ecommerce-body text-dm-mobile">
-                                <p class="m-dm-carousel-card-text">
-                                    Maximize your online sales with our custom
-                                    Sears Management Services. Our expert team provides tailored support for account
-                                    setup, listing optimization, and brand content management. Let us help you reach
-                                    your e-commerce goals with personalized support.
-                                </p>
-                            </div>
-
-                        </div>
-                        <div class="item">
-                            <h3>Services for Amazon</h3>
-                            <h1>Amazon <br> Store Audit</h1>
-
-                            <img src="images/datamanagement/mobile-amazon-audit.png" class="mobile-carousel-dm-img"
-                                alt="">
-
-                            <div class="ecommerce-body text-dm-mobile">
-                                <p class="m-dm-carousel-card-text">
-                                    Maximize your online sales with our custom
-                                    Sears Management Services. Our expert team provides tailored support for account
-                                    setup, listing optimization, and brand content management. Our services also include
-                                    advertising and accounting for your success on Sears. Let us help you reach your
-                                    e-commerce goals with personalized support.
-                                </p>
-                            </div>
-
-                        </div>
-                        <div class="item">
-                            <h3>Services for Amazon</h3>
-                            <h1>Amazon <br> Listing
-                                Optimaization</h1>
-
-                            <img src="images/datamanagement/mobile-amazon-listing.png" class="mobile-carousel-dm-img"
-                                alt="">
-
-                            <div class="ecommerce-body text-dm-mobile">
-                                <p class="m-dm-carousel-card-text">
-                                    Maximize your online sales with our custom
-                                    Sears Management Services. Our expert team provides tailored support for account
-                                    setup, listing optimization, and brand content management. Our services also include
-                                    advertising and accounting for your success on Sears. Let us help you reach your
-                                    e-commerce goals with personalized support.
-                                </p>
-                            </div>
-
-                        </div>
-                        <div class="item">
-                            <h3>Services for Amazon</h3>
-                            <h1>Amazon <br> virtual
-                                Assitant</h1>
-
-                            <img src="images/datamanagement/mobile-amazon-virtual.png" class="mobile-carousel-dm-img"
-                                alt="">
-
-                            <div class="ecommerce-body text-dm-mobile">
-                                <p class="m-dm-carousel-card-text">
-                                    Maximize your online sales with our custom
-                                    Sears Management Services. Our expert team provides tailored support for account
-                                    setup, listing optimization, and brand content management. Our services also include
-                                    advertising and accounting for your success on Sears. Let us help you reach your
-                                    e-commerce goals with personalized support.
-                                </p>
-                            </div>
-
-                        </div>
-                    </div>
-                    <button class="m-dm-button t-dm-button">Get free trail</button>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--mobile Design -->
-</section>
 
 
 <?php

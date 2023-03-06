@@ -6,7 +6,7 @@
 
 
 <section>
-    <div class="amazon-container-hero mobile-hide tablet-hide">
+    <div class="amazon-container-hero multichannel-bg-color mobile-hide tablet-hide">
         <div class="amazon-row-hero">
             <div class="amazon-hero-bg-left">
                 <div class="amazon-hero-text">

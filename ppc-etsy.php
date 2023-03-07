@@ -352,7 +352,7 @@
                         <div class="item">
                             <h3>Why choose us?</h3>
                             <h1>Driving Growth And Success
-                        For Your Amazon Business</h1>
+                        For Your Etsy Business</h1>
                          
                             <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
                           
@@ -367,7 +367,7 @@
                           
                         </div>
                         <div class="item">
-                            <h3>In your Amazon growth strategy</h3>
+                            <h3>In your Etsy growth strategy</h3>
                             <h1>Competitor Research & Strategy Set up</h1>
                           
                             <img src="images/ppc/amazon-competitor.png"  class="mobile-carousel-dm-img" alt="">
@@ -384,7 +384,7 @@
                           
                         </div>
                         <div class="item">
-                            <h3>In your Amazon growth strategy</h3>
+                            <h3>In your Etsy growth strategy</h3>
                             <h1>Keywords research & Campaigns Creation</h1>
                          
                             <img src="images/ppc/amazon-keyword.png"  class="mobile-carousel-dm-img" alt="">
@@ -401,7 +401,7 @@
                            
                         </div>
                         <div class="item">
-                            <h3>In your Amazon growth strategy</h3>
+                            <h3>In your Etsy growth strategy</h3>
                             <h1>Adjusting & Optimizing</h1>
                          
                             <img src="images/ppc/amazon-adjusting.png"  class="mobile-carousel-dm-img" alt="">
@@ -419,7 +419,7 @@
                         </div>
                        
                         <div class="item">
-                            <h3>In your Amazon growth strategy</h3>
+                            <h3>In your Etsy growth strategy</h3>
                             <h1>Analysis Data & Reporting</h1>
                          
                             <img src="images/ppc/amazon-analysis.png"  class="mobile-carousel-dm-img" alt="">

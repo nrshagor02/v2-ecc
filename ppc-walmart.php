@@ -6,28 +6,27 @@
 
 
 <section>
-    <div class="amazon-container-hero">
+<div class="datamanagement-container-hero data-management-bg-color mobile-hide tablet-hide">
         <div class="amazon-row-hero">
-            <div class="amazon-hero-bg">
-                <img src="images/datamanagement/ppc-hero-image.png" alt="" class="amazon-hero-bg-image">
+            <div class="data-management-container-left ">
                 <div class="amazon-hero-text">
                     <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
                         <h4>Grow profits quickly on Walmart</h4>
-                        <h2>Maximize Your Sales<br>with Walmart PPC</h2>
+                        <h2>A-Z Data Management <br> for Walmart Stores</h2>
                     </div>
-                    <p>Walmart PPC (Pay-Per-Click) management refers to the process of optimizing and managing
-advertising campaigns. Advertise to Millions! Boost Your Sales By 4x**</p>
+                    <p>Walmart, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
                     <div class="amazon-hero-counter">
                         <div>
                             <h4>5+</h4>
-                            <p>Years of experience</p>
+                            <p>Years of Experience</p>
                         </div>
                         <div>
                             <h4>500+</h4>
                             <p>Project Completed</p>
                         </div>
                         <div>
-                            <h4>95+</h4>
+                            <h4>95%</h4>
                             <p>Positive Rating</p>
                         </div>
                     </div>
@@ -51,27 +50,82 @@ advertising campaigns. Advertise to Millions! Boost Your Sales By 4x**</p>
                     </div>
                 </div>
             </div>
+            <div class="data-management-container-right">
+             <img src="images/datamanagement/dataManagementBg.png" alt="" class="amazon-hero-bg-image">
+            </div>
         </div>
     </div>
+            <!--mobile fahim -->
+<div class="mobile-dm-container data-management-bg-color mobile-show tablet-hide">
+        <h3>Grow profits quickly on Walmart</h3>
+        <h1>A-Z Data Management <br> for Walmart Stores</h1>
+        <p class="m-dm-hero-text">Walmart, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
+        <img src="images/datamanagement/dataManagementBg.png" class="mobile-hero-bg" alt="">
+
+        <div class="m-dm-hero-card">
+            <p class="m-dm-card-title">5+</p>
+            <p class="m-dm-card-text">Years of experience</p>
+        </div>
+        <div class="m-dm-hero-card">
+            <p class="m-dm-card-title">95%</p>
+            <p class="m-dm-card-text">Positive Rating</p>
+        </div>
+        <div class="m-dm-hero-card">
+            <p class="m-dm-card-title">500+</p>
+            <p class="m-dm-card-text">Project Completion</p>
+        </div>
+        <button class="m-dm-button">Get free trail</button>
+        </div>
+</div>
+<!--mobile fahim -->
+<!-- tablet---fahim -->
+<div class="tablet-dm-container data-management-bg-color mobile-hide tablet-show">
+        <h3>Grow profits quickly on Walmart</h3>
+        <h1>A-Z Data Management <br> for Walmart Stores</h1>
+        <p class="m-dm-hero-text">Walmart, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
+        <div class="t-dm-amazon-content">
+            <div class="t-dm-hero-left">
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">5+</p>
+                    <p class="t-dm-card-text">Years of experience</p>
+                </div>
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">95%</p>
+                    <p class="t-dm-card-text">Positive Rating</p>
+                </div>
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">500+</p>
+                    <p class="t-dm-card-text">Project Completion</p>
+                </div>
+                <button class="m-dm-button">Get free trail</button>
+            </div>
+            <div class="t-dm-hero-right">
+                <img src="images/datamanagement/tab-hero-bg.png" alt="tablet">
+            </div>
+</div>
+
+
+</div>
+
+<!-- tablet---fahim -->
     <?php 
     include('share/navDropdown.php');
 ?>
 </section>
 
-
-<section>
-    <div class="we-can-container" style="margin-bottom: 15vh;">
-        <div class="we-can-row">
-            <div class="we-can-left">
-                <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Whatever the product is</h4>
-                    <h2>Reduce Your Waste spend <br> and <span>grow You sale</span>  with <br> Low ACoS
-                    </h2>
+<div class="we-can-container">       
+                <div class="we-can-title" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
+                    <h3>Whatever the product is</h3>
+                    <h1>We  can make   <br><span> the best</span> out of it.</h1>
                 </div>
-                <img src="images/datamanagement/walmart-devices.png" alt=""  class="amazon-hero-bg-image left-device" style="margin-left: 2vw; width:70%; height:70%">
+                <div class="we-can-row">
+            <div class="we-can-left">
+            <img src="images/device/walmart-devices.png" alt=""  >
             </div>
             <div class="we-can-right">
-                <img src="images/datamanagement/graph-ppc.png" alt="" class="amazon-hero-bg-image" style="margin-top: 5vw;">
+                <img src="images/datamanagement/graph-ppc.png" alt="" >
             </div>
         </div>
     </div>
@@ -79,7 +133,7 @@ advertising campaigns. Advertise to Millions! Boost Your Sales By 4x**</p>
 
 
 <section>
-    <div class="amazon-container driving-bg">
+    <div class="amazon-container driving-bg mobile-hide tablet-hide">
         <div class="amazon-drive-row">
             <div class="driving-left">
                 <img src="images/datamanagement/driving_groth.png" alt="">
@@ -122,7 +176,7 @@ Why should you trust our PPC experts ?</h2>
 </section>
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-hide">
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
@@ -161,7 +215,7 @@ Why should you trust our PPC experts ?</h2>
 
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-hide">
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
@@ -203,7 +257,7 @@ Why should you trust our PPC experts ?</h2>
 
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-hide">
         <div class="amazon-row amazon-data-margin">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
@@ -246,7 +300,7 @@ Why should you trust our PPC experts ?</h2>
 
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-hide">
         <div class="amazon-row amazon-data-margin">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
@@ -287,6 +341,111 @@ Why should you trust our PPC experts ?</h2>
     </div>
 </section>
 
+<section class="home-desktop-hide">
+    <!--mobile Design -->
+    <div class="m-choose-us-container mobile-show tablet-show">
+        <div class="ecom-row">
+            <div class="ecom-slider">
+                <div class="owl-slider">
+                    <div id="m-choose-dm" class="owl-carousel ecommerce-slider brand-owl dm-carousel-mb">
+                        <div class="item">
+                            <h3>Why choose us?</h3>
+                            <h1>Driving Growth And Success
+                        For Your Walmart Business</h1>
+                         
+                            <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
+                          
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                We don’t jump into work without understanding the market.
+                                Firstly we research competitors on Walmart to understand
+                                their strengths, weaknesses, and strategies. Also, analyze
+                                their product listings, and keywords to gain insights. After
+                                that, we set up our strategy and target.
+                                </p>
+                            </div>
+                          
+                        </div>
+                        <div class="item">
+                            <h3>In your Walmart growth strategy</h3>
+                            <h1>Competitor Research & Strategy Set up</h1>
+                          
+                            <img src="images/datamanagement/walmart-competitor.png"  class="mobile-carousel-dm-img" alt="">
+                           
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                After completing the competitor & market research we work on
+                                the analysis of the keyword by using different tools like Jungle
+                                Scout, Helium 10. Based on our research we create a list of
+                                keywords that we want to target and prioritize based on
+                                relevance and search volume. 
+                                </p>
+                            </div>
+                          
+                        </div>
+                        <div class="item">
+                            <h3>In your Walmart growth strategy</h3>
+                            <h1>Keywords research & Campaigns Creation</h1>
+                         
+                            <img src="images/datamanagement/Walmart-Keyword.png"  class="mobile-carousel-dm-img" alt="">
+                         
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                After completing the competitor & market research we work on
+                                the analysis of the keyword by using different tools like Jungle
+                                Scout, Helium 10. Based on our research we create a list of
+                                keywords that we want to target and prioritize based on
+                                relevance and search volume.
+                                </p>
+                            </div>
+                           
+                        </div>
+                        <div class="item">
+                            <h3>In your Walmart growth strategy</h3>
+                            <h1>Adjusting & Optimizing</h1>
+                         
+                            <img src="images/datamanagement/Walmart-Keyword.png"  class="mobile-carousel-dm-img" alt="">
+                        
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                After completing the competitor & market research we work on
+                                the analysis of the keyword by using different tools like Jungle
+                                Scout, Helium 10. Based on our research we create a list of
+                                keywords that we want to target and prioritize based on
+                                relevance and search volume. 
+                                </p>
+                            </div>
+                          
+                        </div>
+                       
+                        <div class="item">
+                            <h3>In your Walmart growth strategy</h3>
+                            <h1>Analysis Data & Reporting</h1>
+                         
+                            <img src="images/datamanagement/walmart-Analysis.png"  class="mobile-carousel-dm-img" alt="">
+                        
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                After completing the competitor & market research we work on
+                                the analysis of the keyword by using different tools like Jungle
+                                Scout, Helium 10. Based on our research we create a list of
+                                keywords that we want to target and prioritize based on
+                                relevance and search volume. 
+                                </p>
+                            </div>
+                          
+                        </div>
+
+
+                    </div>
+            
+                    <button class="m-dm-button">Get free trail</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--mobile Design -->
+</section>
 
 <?php
 include('share/whereToBegin.php');
@@ -295,7 +454,7 @@ include('share/whereToBegin.php');
 
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-hide">
         <div class="amazon-data-row">
             <h2>Other <span>Data Management</span> services </h2>
             <div class="amazon-data-management">
@@ -389,7 +548,7 @@ include('share/whereToBegin.php');
                 </a>
             </div>
         </div>
-        <div class="amazon-data-row amazon-data-margin">
+        <div class="amazon-data-row amazon-data-margin mobile-hide tablet-hide">
             <h2>Multichannel Platforms</h2>
             <div class="amazon-data-management">
                 <div class="data-management-logo">

@@ -6,25 +6,24 @@
 
 
 <section>
-    <div class="amazon-container-hero mobile-hide tablet-hide">
+<div class="datamanagement-container-hero data-management-bg-color mobile-hide tablet-hide">
         <div class="amazon-row-hero">
-            <div class="amazon-hero-bg">
-                <img src="images/ppc/amazonPPC.png" alt="" class="amazon-hero-bg-image">
+            <div class="data-management-container-left ">
                 <div class="amazon-hero-text">
                     <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
                         <h4>Grow profits quickly on Amazon</h4>
-                        <h2>Maximize Your Sales <br> with Amazon PPC</h2>
+                        <h2>A-Z Data Management <br> for Amazon Stores</h2>
                     </div>
-                    <p>Amazon PPC (Pay-Per-Click) management refers to the process of optimizing and managing
-                        advertising campaigns. Advertise to Millions! Boost Your Sales By 4x**</p>
+                    <p>Amazon, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
                     <div class="amazon-hero-counter">
                         <div>
-                            <h4>12+</h4>
-                            <p>12+M Advertising Spend Year</p>
+                            <h4>5+</h4>
+                            <p>Years of Experience</p>
                         </div>
                         <div>
                             <h4>500+</h4>
-                            <p>50M+ Advertising Sale Yearly</p>
+                            <p>Project Completed</p>
                         </div>
                         <div>
                             <h4>95%</h4>
@@ -51,21 +50,22 @@
                     </div>
                 </div>
             </div>
+            <div class="data-management-container-right">
+             <img src="images/datamanagement/dataManagementBg.png" alt="" class="amazon-hero-bg-image">
+            </div>
         </div>
     </div>
-                <!--mobile fahim -->
-<div class="mobile-dm-container mobile-multichannel-container mobile-show tablet-hide">
-    <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-    <h3>Grow profits quickly on Amazon</h3>
-        <h1>Maximize Your Sales <br> with Amazon PPC</h1>
-        <p class="m-dm-hero-text">Amazon PPC (Pay-Per-Click) management refers to the process of optimizing and managing
-                        advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
-</div>
-        <img src="./images/ppc/pcc-mobile-img.png" class="mobile-hero-bg" alt="">
+            <!--mobile fahim -->
+<div class="mobile-dm-container data-management-bg-color mobile-show tablet-hide">
+        <h3>Grow profits quickly on Amazon</h3>
+        <h1>A-Z Data Management <br> for Amazon Stores</h1>
+        <p class="m-dm-hero-text">Amazon, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
+        <img src="images/datamanagement/dataManagementBg.png" class="mobile-hero-bg" alt="">
 
         <div class="m-dm-hero-card">
-            <p class="m-dm-card-title">12+</p>
-            <p class="m-dm-card-text">12+M Advertising Spend Year</p>
+            <p class="m-dm-card-title">5+</p>
+            <p class="m-dm-card-text">Years of experience</p>
         </div>
         <div class="m-dm-hero-card">
             <p class="m-dm-card-title">95%</p>
@@ -80,91 +80,56 @@
 </div>
 <!--mobile fahim -->
 <!-- tablet---fahim -->
-<div class="tablet-dm-container tablet-multichannel-container mobile-hide tablet-show">
-<div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-    <h3>Grow profits quickly on Amazon</h3>
-        <h1>Maximize Your Sales <br> with Amazon PPC</h1>
-        <p class="m-dm-hero-text">Amazon PPC (Pay-Per-Click) management refers to the process of optimizing and managing
-                                advertising campaigns. Advertise to Millions! Boost Your Sales By 4x**</p>
-</div>
-<div class="t-dm-hero-content">
-    <div class="t-dm-hero-left">
-        <div class="t-dm-hero-card">
-            <p class="t-dm-card-title">5+</p>
-            <p class="t-dm-card-text">Years of experience</p>
-        </div>
-        <div class="t-dm-hero-card">
-            <p class="t-dm-card-title">95%</p>
-            <p class="t-dm-card-text">Positive Rating</p>
-        </div>
-        <div class="t-dm-hero-card">
-            <p class="t-dm-card-title">500+</p>
-            <p class="t-dm-card-text">Project Completion</p>
-        </div>
-        <button class="t-dm-button">Get free trail</button>
-    </div>
-    <div class="t-dm-hero-right">
-        <img src="./images/ppc/tablet-ppc-hero-img.png" class="amazon-hero-bg-image" alt="tablet">
-    </div>
+<div class="tablet-dm-container data-management-bg-color mobile-hide tablet-show">
+        <h3>Grow profits quickly on Amazon</h3>
+        <h1>A-Z Data Management <br> for Amazon Stores</h1>
+        <p class="m-dm-hero-text">Amazon, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
+        <div class="t-dm-amazon-content">
+            <div class="t-dm-hero-left">
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">5+</p>
+                    <p class="t-dm-card-text">Years of experience</p>
+                </div>
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">95%</p>
+                    <p class="t-dm-card-text">Positive Rating</p>
+                </div>
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">500+</p>
+                    <p class="t-dm-card-text">Project Completion</p>
+                </div>
+                <button class="m-dm-button">Get free trail</button>
+            </div>
+            <div class="t-dm-hero-right">
+                <img src="images/datamanagement/tab-hero-bg.png" alt="tablet">
+            </div>
 </div>
 
 
 </div>
+
 <!-- tablet---fahim -->
     <?php 
     include('share/navDropdown.php');
 ?>
 </section>
 
-
 <section>
-    <div class="we-can-container mobile-hide tablet-hide">
-        <div class="we-can-row">
-            <div class="reduce-left">
-                <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Whatever the product is</h4>
-                    <h2>Reduce your waste spend and grow sale with Low ACoS </h2>
+<div class="we-can-container">       
+                <div class="we-can-title" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
+                    <h3>Whatever the product is</h3>
+                    <h1>We  can make   <br><span> the best</span> out of it.</h1>
                 </div>
-                <img src="images/ppc/reduce-monitor.png" alt="" class="amazon-hero-bg-image">
+                <div class="we-can-row">
+            <div class="we-can-left">
+            <img src="images/device/amazon-device.png" alt=""  >
             </div>
             <div class="we-can-right">
-                <img src="images/datamanagement/graph-ppc.png" alt="" class="amazon-hero-bg-image">
+                <img src="images/datamanagement/graph-ppc.png" alt="" >
             </div>
         </div>
     </div>
-                             <!-- mobile fahim -->
-            <div class="m-we-can-container  mobile-show tablet-hide">
-            <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                <h3>Whatever the product is</h3>
-                <h1>Reduce your waste spend and <br> 
-                <span>grow sale </span> with Low ACoS </h1>
-            </div>
-                <img src="images/ppc/reduce-monitor.png" class="m-dm-product-img" alt="walmart-device">
-                <img src="images/datamanagement/graph-ppc.png" class="m-dm-product-img" alt="graph">
-        </div>
-
-    <!--mobile ---fahim--- -->
-        <!-- tablet---fahim -->
-        <div class="t-we-can-container mobile-hide tablet-show">
-            <div class="t-dm-wrapper">
-            <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-            <h3>Whatever the product is</h3>
-            <h1>Reduce Your Waste spend and <br> 
-                <span>grow sale </span> with Low ACoS </h1>
-            </div>
-                <div class="t-dm-we-can-content">
-                    <div class="t-dm-img-01">
-                    <img src="images/ppc/reduce-monitor.png" alt="tablet-walmart-device">
-                    </div>
-            <div class="t-dm-graph">
-            <img src="images/datamanagement/graph-ppc.png" alt="graph">
-            </div>
-                
-                </div>
-            </div>   
-            
-    </div>
-<!-- tablet---fahim -->
 </section>
 
 
@@ -209,168 +174,124 @@
             </div>
         </div>
     </div>
-                          <!--mobile fahim -->
-    
-<div class="m-choose-us-container mobile-show tablet-hide">
+  
+<section class="home-desktop-hide">
+    <!--mobile Design -->
+    <div class="m-choose-us-container mobile-show tablet-show">
         <div class="ecom-row">
             <div class="ecom-slider">
                 <div class="owl-slider">
                     <div id="m-choose-dm" class="owl-carousel ecommerce-slider brand-owl dm-carousel-mb">
                         <div class="item">
                             <h3>Why choose us?</h3>
-                            <h1>Elevate your <br>Linnwork growth strategy</h1>
+                            <h1>Driving Growth And Success
+                        For Your Amazon Business</h1>
                          
                             <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
                           
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                We have specialized teams with specific skills and customers handling
-                                experience in Sellbrite. Also, our team of experts is certified
-                                by ChannelAdvisor learning console. 95% of our clients see improvement in
-                                performance within 4 weeks.
+                                We have specialized teams with specific skills and experience in
+                            different areas. We can help to scale up your business based on
+                            your needs. We have access to a range of resources, technology,
+                            and tools, that will help your business to grow.
                                 </p>
                             </div>
                           
                         </div>
                         <div class="item">
-                            <h3>Services for Linnwork</h3>
-                            <h1>Customer Convenience & <br> Consistent Experience</h1>
+                            <h3>In your Amazon growth strategy</h3>
+                            <h1>Competitor Research & Strategy Set up</h1>
                           
                             <img src="images/ppc/amazon-competitor.png"  class="mobile-carousel-dm-img" alt="">
                            
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                Our Customer Convenience & Consistent Experience service
-                                provides a seamless and straightforward customer experience. 
-                                We offer a user-friendly website, easy-to-understand products, 
-                                and a commitment to excellent customer service through 24/7 
-                                support, self-service portals, and in-person support. 
+                                After completing the competitor & market research we work on
+                                the analysis of the keyword by using different tools like Jungle
+                                Scout, Helium 10. Based on our research we create a list of
+                                keywords that we want to target and prioritize based on
+                                relevance and search volume. And based on that we start
+                                creating all sorts of campaigns like sponsored products,
+                                sponsored brand, sponsored video, sponsored display,
+                                display VCPM.
                                 </p>
                             </div>
                           
                         </div>
                         <div class="item">
-                            <h3>Services for Linnwork</h3>
-                            <h1>Faster Resolution Time & <br> Efficient Team Productivity</h1>
+                            <h3>In your Amazon growth strategy</h3>
+                            <h1>Keywords research & Campaigns Creation</h1>
                          
-                            <img src="images/multichannel/Linnworks-Keyword.png"  class="mobile-carousel-dm-img" alt="">
+                            <img src="images/ppc/amazon-keyword.png"  class="mobile-carousel-dm-img" alt="">
                          
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                Faster Resolution Time & Efficient Team Productivity service 
-                                to improve the efficiency and productivity of teams. Our 
-                                service streamlines work processes, eliminates bottlenecks, 
-                                and optimizes resource use, leading to improved performance
-                                and success. 
+                                After completing the competitor & market research we work on
+                                the analysis of the keyword by using different tools like Jungle
+                                Scout, Helium 10. Based on our research we create a list of
+                                keywords that we want to target and prioritize based on
+                                relevance and search volume. And based on that we start
+                                creating all sorts of campaigns like sponsored products,
+                                sponsored brand, sponsored video, sponsored display,
+                                display VCPM.
                                 </p>
                             </div>
                            
                         </div>
                         <div class="item">
-                            <h3>Services for Linnwork</h3>
-                            <h1>Scalability Of Support</h1>
+                            <h3>In your Amazon growth strategy</h3>
+                            <h1>Adjusting & Optimizing</h1>
                          
-                            <img src="images/multichannel/Linnworks-Adjusting.png"  class="mobile-carousel-dm-img" alt="">
+                            <img src="images/ppc/amazon-adjusting.png"  class="mobile-carousel-dm-img" alt="">
                         
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                Our flexible solutions cover technical support, customer service,
-                                project management and more, with a team of experts providing
-                                personalized support. As organizations grow, our services can 
-                                be adjusted to match their unique requirements.
+                                After completing the competitor & market research we work on
+                                the analysis of the keyword by using different tools like Jungle
+                                Scout, Helium 10. Based on our research we create a list of
+                                keywords that we want to target and prioritize based on
+                                relevance and search volume. And based on that we start
+                                creating all sorts of campaigns like sponsored products,
+                                sponsored brand, sponsored video, sponsored display,
+                                display VCPM.
                                 </p>
                             </div>
                           
                         </div>
                        
+                        <div class="item">
+                            <h3>In your Amazon growth strategy</h3>
+                            <h1>Analysis Data & Reporting</h1>
+                         
+                            <img src="images/ppc/amazon-analysis.png"  class="mobile-carousel-dm-img" alt="">
+                        
+                            <div class="ecommerce-body text-dm-mobile">
+                                <p class="m-dm-carousel-card-text">
+                                After completing the competitor & market research we work on
+                                the analysis of the keyword by using different tools like Jungle
+                                Scout, Helium 10. Based on our research we create a list of
+                                keywords that we want to target and prioritize based on
+                                relevance and search volume. And based on that we start
+                                creating all sorts of campaigns like sponsored products,
+                                sponsored brand, sponsored video, sponsored display,
+                                display VCPM.
+                                </p>
+                            </div>
+                          
+                        </div>
+
+
                     </div>
+            
                     <button class="m-dm-button">Get free trail</button>
                 </div>
             </div>
         </div>
     </div>
-        <!--mobile fahim -->
-        <!-- tablet---fahim -->
-     <div class="t-choose-us-container mobile-hide tablet-show">
-             <div class="ecom-row">
-            <div class="ecom-slider">
-                <div class="owl-slider">
-                    <div id="t-choose-dm" class="owl-carousel ecommerce-slider brand-owl dm-carousel-mb">
-         
-                        <div class="item">
-                            <h3>Why choose us?</h3>
-                            <h1>Elevate your Linnwork strategy</h1>
-                         
-                            <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
-                          
-                            <div class="ecommerce-body text-dm-tablet">
-                                <p class="t-dm-carousel-card-text">
-                                We have specialized teams with specific skills and customers handling
-                                experience in Linnwork. Also, our team of experts is certified
-                                by Linnwork learning console. 95% of our clients see improvement in
-                                performance within 4 weeks.
-                                </p>
-                            </div>
-                          
-                        </div>
-                        <div class="item">
-                            <h3>Services for Amazon</h3>
-                            <h1>Competitor Research &<br> Strategy Set up</h1>
-                          
-                            <img src="images/ppc/amazon-competitor.png" class="mobile-carousel-dm-img"  alt="tablet-amazon-audit">
-                           
-                            <div class="ecommerce-body text-dm-tablet">
-                                <p class="t-dm-carousel-card-text">
-                                We don’t jump into work without understanding the market.
-                            Firstly we research competitors on Amazon to understand
-                            their strengths, weaknesses, and strategies.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <h3>Services for Amazon</h3>
-                            <h1>Keywords research & <br>Campaigns Creation</h1>
-                          
-                            <img src="images/multichannel/Linnworks-Keyword.png"  class="mobile-carousel-dm-img" alt="tablet-amazon-audit">
-                           
-                            <div class="ecommerce-body text-dm-tablet">
-                                <p class="t-dm-carousel-card-text">
-                                Faster Resolution Time & Efficient Team Productivity service 
-                                to improve the efficiency and productivity of teams. Our 
-                                service streamlines work processes, eliminates bottlenecks, 
-                                and optimizes resource use, leading to improved performance
-                                and success. 
-                                </p>
-                            </div>
-                          
-                        </div>
-                         <div class="item">
-                            <h3>Services for Amazon</h3>
-                             <h1>Adjusting & Optimizing</h1>
-                         
-                            <img src="images/multichannel/Linnworks-Adjusting.png"  class="mobile-carousel-dm-img" alt="tablet-amazon-listing">
-                         
-                            <div class="ecommerce-body text-dm-tablet">
-                                <p class="t-dm-carousel-card-text">
-                                Our flexible solutions cover technical support, customer service,
-                                project management and more, with a team of experts providing
-                                personalized support. As organizations grow, our services can 
-                                be adjusted to match their unique requirements.
-                                </p>
-                            </div>
-                           
-                        </div>
-                        
-                    
-                    </div>
-                    <button class="t-dm-button">Get free trail</button>
-            </div>
-        </div>
-    </div>
-    </div>
-
-        <!-- tablet---fahim -->
+    <!--mobile Design -->
 </section>
+
 
 <section>
     <div class="amazon-container mobile-hide tablet-hide">
@@ -548,7 +469,7 @@ include('share/whereToBegin.php');
 
 
 <section>
-    <div class="amazon-container mobile-hide tablet-hide">
+    <div class="amazon-container mobile-hide tablet-show">
         <div class="amazon-data-row">
             <h2>Other <span>Sponsor Ads Management</span> services</h2>
             <div class="amazon-data-management">

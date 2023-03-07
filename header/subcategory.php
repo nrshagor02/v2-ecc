@@ -43,9 +43,9 @@
                 <li class="home-mobile-hide"><a class="changeFontColorOnHover" href="#">Resource</a></li>
                 <li class="home-mobile-hide"><a class="changeFontColorOnHover" href="#">About</a></li>
                 <li class="home-mobile-hide"><a class="changeFontColorOnHover" href="#">Contact</a></li>
-                <li onclick="navDropdown()" id="hover-spinner"
+                <li onclick="navDropdown()" id="hover-spinner" style="margin-top: -7px; margin-right:32px"
                     class="nav-circle-hover spinner circlehover blackspinner home-mobile-hide"
-                    style="margin-bottom: 42px; margin-right:10px"><a href="#" class="nav-icon-r">
+                    ><a href="#"  class="nav-icon-r" >
                         <svg id="Group_2058" data-name="Group 2058" class="changeSVG-sub-icon"
                             xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
                             <g id="nav_1" data-name="nav 1">
@@ -60,7 +60,7 @@
 
                     </a></li>
                 <li onclick="navDropdownMobile()" class="nav-circle spin circle home-desktop-hide"
-                    style="margin-top: 12px;"><a href="#" class="nav-icon-r">
+                    ><a href="#" class="nav-icon-r">
                         <svg xmlns="http://www.w3.org/2000/svg" class="changeSVG-sub-icon" width="28" height="28"
                             viewBox="0 0 26 26">
                             <g id="Group_1751" data-name="Group 1751" transform="translate(-1762 -13)">

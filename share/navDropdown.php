@@ -486,118 +486,74 @@
                 onclick="topDropdownRightChange(2)">
         </div>
         <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
-            <p clas="">Marketplace Sponsored Entry</p>
+            <p clas="">Sponsor Ads Management</p>
             <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
                 <li>
-                    <a href="amazon.php">
+                    <a href="amazonPPC.php">
                         Amazon
                     </a>
                 </li>
                 <li>
-                    <a href="walmart.php">
+                    <a href="ppc-walmart.php">
                         Walmart
                     </a>
                 </li>
                 <li>
-                    <a href="ebay.php">
+                    <a href="ppc-ebay.php">
                         ebay
                     </a>
                 </li>
                 <li>
-                    <a href="shop.php">
-                        Shop.com
+                    <a href="ppc-etsy.php">
+                        Etsy
                     </a>
                 </li>
                 <li>
-                    <a href="bigCommerce.php">
-                        Big commerce
+                    <a href="ppc-fingerhut.php">
+                        Fingerhut
                     </a>
                 </li>
                 <li>
-                    <a href="shopify.php">
-                        Shopify
+                    <a href="ppc-homedepot.php">
+                       HomeDepot
                     </a>
                 </li>
                 <li>
-                    <a href="fruugo.php">
-                        Fruugo
+                    <a href="ppc-khol's.php">
+                        Khol's
                     </a>
                 </li>
                 <li>
-                    <a href="bestbuy.php">
-                        Best Buy
-                    </a>
-                </li>
-                <li>
-                    <a href="overStock.php">
-                        Over Stock
-                    </a>
-                </li>
-                <li>
-                    <a href="target.php">
-                        Target +
-                    </a>
-                </li>
-                <li>
-                    <a href="newegg.php">
-                        Newegg
-                    </a>
-                </li>
-                <li>
-                    <a href="houzz.php">
-                        Houzz
-                    </a>
-                </li>
-                <li>
-                    <a href="paysfer.php">
-                        Paysfer
-                    </a>
-                </li>
-                <li>
-                    <a href="manomano.php">
-                        ManoMano
-                    </a>
-                </li>
-                <li>
-                    <a href="rakuten.php">
-                        Rakuten
-                    </a>
-                </li>
-                <li>
-                    <a href="wish.php">
-                        Wish
-                    </a>
-                </li>
-                <li>
-                    <a href="macys.php">
+                    <a href="ppc-macy's.php">
                         Macy's
                     </a>
                 </li>
                 <li>
-                    <a href="kroger.php">
-                        Kroger
+                    <a href="ppc-newegg.php">
+                        Newegg
                     </a>
                 </li>
                 <li>
-                    <a href="homeDepot.php">
-                        HomeDepot
+                    <a href="ppc-target.php">
+                        Target +
                     </a>
                 </li>
                 <li>
-                    <a href="myUS.php">
-                        MyUS
-                    </a>
-                </li>
-                <li>
-                    <a href="christmas.php">
-                        Christmas.com
-                    </a>
-                </li>
-                <li>
-                    <a href="sears.php">
+                    <a href="ppc-sears.php">
                         Sears
                     </a>
                 </li>
+                <li>
+                    <a href="ppc-overstock.php">
+                        Overstock
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-wayfair.php">
+                        Wayfair
+                    </a>
+                </li>
+             
             </ul>
             <img src="images/datamanagement/right_arrow.png" alt="" onclick="topDropdownRightChange(2)">
             <div class="ecc-mt-40">

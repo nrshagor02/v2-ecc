@@ -1055,7 +1055,7 @@
                         <img src="images/icon/Urban-X.png" alt="" class="testing7">
                     </div>
                     <div class="brand-bottom-border">
-                        <img src="images/icon/Home-city.png" alt="">
+                    <img src="images/icon/Home-city.png" alt="" class="testing2">
                     </div>
                 </div>
                 <div class="brand-body-3">

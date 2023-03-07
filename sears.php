@@ -6,30 +6,27 @@
 
 
 <section>
-    <div class="amazon-container-hero">
+<div class="datamanagement-container-hero data-management-bg-color mobile-hide tablet-hide">
         <div class="amazon-row-hero">
-            <div class="amazon-hero-bg">
-                <img src="images/datamanagement/a-z-data-management.png" alt="" class="amazon-hero-bg-image">
+            <div class="data-management-container-left ">
                 <div class="amazon-hero-text">
                     <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                        <h4>Grow profits quickly on Sears </h4>
-                        <h2>A-Z Data Management for <br> Sears Stores</h2>
+                        <h4>Grow profits quickly on Sears</h4>
+                        <h2>A-Z Data Management <br> for Sears Stores</h2>
                     </div>
-                    <p>Unleash your sales potential with our expert data entry and listing
-                        services. Our team will create unique, appealing listings that will drive
-                        traffic and sales to your online store on Sears . Let us handle
-                        the details while you focus on growing your business.</p>
+                    <p>Sears, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
                     <div class="amazon-hero-counter">
                         <div>
                             <h4>5+</h4>
-                            <p>Years of experience</p>
+                            <p>Years of Experience</p>
                         </div>
                         <div>
                             <h4>500+</h4>
                             <p>Project Completed</p>
                         </div>
                         <div>
-                            <h4>95+</h4>
+                            <h4>95%</h4>
                             <p>Positive Rating</p>
                         </div>
                     </div>
@@ -53,36 +50,100 @@
                     </div>
                 </div>
             </div>
+            <div class="data-management-container-right">
+             <img src="images/datamanagement/dataManagementBg.png" alt="" class="amazon-hero-bg-image">
+            </div>
         </div>
     </div>
+
+
+    <!--mobile fahim -->
+    <div class="mobile-dm-container data-management-bg-color mobile-show tablet-hide">
+
+        <h3>Grow profits quickly on Sears</h3>
+        <h1>A-Z Data Management <br> for SearsStore</h1>
+        <p class="m-dm-hero-text">Sears, the world’s largest retailer, manages
+            a massive amount of data related to its
+            operations, customers, and supply chain.</p>
+        <img src="images/datamanagement/dataManagementBg.png" class="mobile-hero-bg" alt="">
+        <div class="m-dm-hero-card-container">
+            <div class="m-dm-hero-card">
+                <p class="m-dm-card-title">5+</p>
+                <p class="m-dm-card-text">Years of experience</p>
+            </div>
+            <div class="m-dm-hero-card">
+                <p class="m-dm-card-title">95%</p>
+                <p class="m-dm-card-text">Positive Rating</p>
+            </div>
+            <div class="m-dm-hero-card">
+                <p class="m-dm-card-title">500+</p>
+                <p class="m-dm-card-text">Project Completion</p>
+            </div>
+            <button class="m-dm-button">Get free trail</button>
+
+
+        </div>
+
+
+    </div>
+
+    <!--mobile fahim -->
+
+    <!-- tablet---fahim -->
+    <div class="tablet-dm-container data-management-bg-color mobile-hide tablet-show">
+        <h3>Grow profits quickly on Sears</h3>
+        <h1>A-Z Data Management <br> for Sears Stores</h1>
+        <p class="m-dm-hero-text">Sears, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
+        <div class="t-dm-amazon-content">
+            <div class="t-dm-hero-left">
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">5+</p>
+                    <p class="t-dm-card-text">Years of experience</p>
+                </div>
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">95%</p>
+                    <p class="t-dm-card-text">Positive Rating</p>
+                </div>
+                <div class="t-dm-hero-card">
+                    <p class="t-dm-card-title">500+</p>
+                    <p class="t-dm-card-text">Project Completion</p>
+                </div>
+                <button class="m-dm-button">Get free trail</button>
+            </div>
+            <div class="t-dm-hero-right">
+                <img src="images/datamanagement/tab-hero-bg.png" alt="tablet">
+            </div>
+</div>
+
+
+</div>
     <?php 
     include('share/navDropdown.php');
 ?>
 </section>
 
-
 <section>
-    <div class="we-can-container">
-        <div class="we-can-row">
-            <div class="we-can-left">
-                <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Whatever the product is</h4>
-                    <h2>We can make <br>
-                        <span>the best</span> out of it.
-                    </h2>
+<div class="we-can-container">       
+                <div class="we-can-title" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
+                    <h3>Whatever the product is</h3>
+                    <h1>We can make   <br><span> the best</span> out of it.</h1>
                 </div>
-                <img src="images/datamanagement/devices1.png" alt="" class="amazon-hero-bg-image">
+                <div class="we-can-row">
+            <div class="we-can-left">
+            <img src="images/device/houzz-device.png" alt=""  >
             </div>
             <div class="we-can-right">
-                <img src="images/datamanagement/growth-cart.png" alt="" class="amazon-hero-bg-image">
+                <img src="images/datamanagement/graph-ppc.png" alt="" >
             </div>
         </div>
     </div>
 </section>
 
 
+
 <section>
-    <div class="amazon-container driving-bg">
+    <div class="amazon-container driving-bg mobile-hide tablet-hide">
         <div class="amazon-drive-row">
             <div class="driving-left">
                 <img src="images/datamanagement/driving_groth.png" alt="">
@@ -124,7 +185,7 @@
 </section>
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-hide">
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
@@ -163,7 +224,7 @@
 
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-hide">
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
@@ -202,7 +263,7 @@
 
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-hide">
         <div class="amazon-row amazon-data-margin">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
@@ -248,7 +309,7 @@ include('share/whereToBegin.php');
 
 
 <section>
-    <div class="amazon-container">
+    <div class="amazon-container mobile-hide tablet-show">
         <div class="amazon-data-row">
             <h2>Other <span>Data Management</span> services </h2>
             <div class="amazon-data-management">
@@ -342,7 +403,7 @@ include('share/whereToBegin.php');
                 </a>
             </div>
         </div>
-        <div class="amazon-data-row amazon-data-margin">
+        <div class="amazon-data-row amazon-data-margin mobile-hide tablet-show">
             <h2>Multichannel Platforms</h2>
             <div class="amazon-data-management">
                 <div class="data-management-logo">

@@ -300,88 +300,84 @@
 </section>
 
 
-<section class="home-desktop-hide">
+<section >
     <!--mobile Design -->
-    <div class="m-choose-us-container">
+    <div class="m-choose-us-container mobile-show tablet-show">
         <div class="ecom-row">
             <div class="ecom-slider">
                 <div class="owl-slider">
-                    <div id="m-choose-dm" class="owl-carousel ecommerce-slider-amazon brand-owl dm-carousel-mb">
+                    <div id="m-choose-dm" class="owl-carousel ecommerce-slider brand-owl dm-carousel-mb">
                         <div class="item">
-                            <h3>Why choose us?</h3>
-                            <h1>Transform Your <br>
-                                Ebay Sales </h1>
-
-                            <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
-
-                            <div class="ecommerce-body text-dm-mobile">
-                                <p class="m-dm-carousel-card-text">
-                                    Maximize your online sales with our custom
-                                    Sears Management Services. Our expert team provides tailored support for account
-                                    setup, listing optimization, and brand content management. Let us help you reach
-                                    your e-commerce goals with personalized support.
-                                </p>
-                            </div>
-
+                                <h3>Why choose us?</h3>
+                                <h1>Driving Growth And Success <br>
+                            For Your eBay Business</h1>
+                            
+                                <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
+                            
+                                <div class="ecommerce-body text-dm-mobile">
+                                    <p class="m-dm-carousel-card-text">
+                                    Right from
+                                    account creation, management, product listings, cataloging,
+                                    brand content creation, and product optimization to advertising
+                                    and accounting, our service portfolio is designed to provide.
+                                    </p>
+                                </div>
+                          
                         </div>
                         <div class="item">
-                            <h3>Services for Ebay</h3>
-                            <h1>Ebay <br> Store Audit</h1>
-
-                            <img src="images/datamanagement/mobile-amazon-audit.png" class="mobile-carousel-dm-img"
-                                alt="">
-
+                            <h3>In your eBay growth strategy</h3>
+                            <h1>eBay Store Audit</h1>
+                          
+                            <img src="images/datamanagement/ebay-store.png"  class="mobile-carousel-dm-img" alt="">
+                           
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                    Maximize your online sales with our custom
-                                    Sears Management Services. Our expert team provides tailored support for account
-                                    setup, listing optimization, and brand content management. Our services also include
-                                    advertising and accounting for your success on Sears. Let us help you reach your
-                                    e-commerce goals with personalized support.
+                                91% of our clients see a meaningful increase in account sales
+                                performance within 30 days after adding A+ content designed
+                                by us. Please keep in mind that your particular success rate
+                                may differ due to a variety of individual factors (i.e. PPC, SEO),
+                                which may increase or decrease your chances for success.
                                 </p>
                             </div>
-
+                          
                         </div>
                         <div class="item">
-                            <h3>Services for Ebay</h3>
-                            <h1>Ebay <br> Listing
-                                Optimaization</h1>
-
-                            <img src="images/datamanagement/mobile-amazon-listing.png" class="mobile-carousel-dm-img"
-                                alt="">
-
+                            <h3>In your eBay growth strategy</h3>
+                            <h1>eBay Listing Optimaiztions</h1>
+                         
+                            <img src="images/datamanagement/ebay-listing.png"  class="mobile-carousel-dm-img" alt="">
+                         
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                    Maximize your online sales with our custom
-                                    Sears Management Services. Our expert team provides tailored support for account
-                                    setup, listing optimization, and brand content management. Our services also include
-                                    advertising and accounting for your success on Sears. Let us help you reach your
-                                    e-commerce goals with personalized support.
+                                91% of our clients see a meaningful increase in account sales
+                                performance within 30 days after adding A+ content designed
+                                by us. Please keep in mind that your particular success rate
+                                may differ due to a variety of individual factors (i.e. PPC, SEO),
+                                which may increase or decrease your chances for success.
                                 </p>
                             </div>
-
+                           
                         </div>
                         <div class="item">
-                            <h3>Services for Ebay</h3>
-                            <h1>Ebay <br> virtual
-                                Assitant</h1>
-
-                            <img src="images/datamanagement/mobile-amazon-virtual.png" class="mobile-carousel-dm-img"
-                                alt="">
-
+                            <h3>In your eBay growth strategy</h3>
+                            <h1>eBay virtual Assitant</h1>
+                         
+                            <img src="images/datamanagement/ebay-virtual.png"  class="mobile-carousel-dm-img" alt="">
+                        
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                    Maximize your online sales with our custom
-                                    Sears Management Services. Our expert team provides tailored support for account
-                                    setup, listing optimization, and brand content management. Our services also include
-                                    advertising and accounting for your success on Sears. Let us help you reach your
-                                    e-commerce goals with personalized support.
+                                91% of our clients see a meaningful increase in account sales
+                                performance within 30 days after adding A+ content designed
+                                by us. Please keep in mind that your particular success rate
+                                may differ due to a variety of individual factors (i.e. PPC, SEO),
+                                which may increase or decrease your chances for success.
                                 </p>
                             </div>
-
+                          
                         </div>
+                       
                     </div>
-                    <button class="m-dm-button t-dm-button">Get free trail</button>
+                    <button class="m-dm-button">Get free trail</button>
                 </div>
             </div>
         </div>

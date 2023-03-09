@@ -13,17 +13,17 @@
                         Ad</a></li>
                 <li><a href="#" onclick="dropdownRightChange(3)" class="dropdown-btn drop-active">Digital
                         Marketing</a></li>
-                <li><a href="#" onclick="dropdownRightChange()" class="dropdown-btn drop-active">Website
+                <li><a href="#" onclick="dropdownRightChange(4)" class="dropdown-btn drop-active">Website
                         Development</a>
                 </li>
-                <li><a href="#" onclick="dropdownRightChange()" class="dropdown-btn drop-active">Creative
+                <li><a href="#" onclick="dropdownRightChange(5)" class="dropdown-btn drop-active">Creative
                         Graphics</a></li>
-                <li><a href="#" onclick="dropdownRightChange()" class="dropdown-btn drop-active">Customer
+                <li><a href="#" onclick="dropdownRightChange(6)" class="dropdown-btn drop-active">Customer
                         Support</a></li>
             </ul>
         </div>
         <div class="dropdown-left-footer">
-            <a href="#">Resourece</a>
+            <a href="#">Resource</a>
             <a href="#">About</a>
             <a href="#">Privacy Policy</a>
         </div>
@@ -38,7 +38,7 @@
             <div class="dropdown-body-1">
                 <div class="dropdown-right-body">
                     <p>Marketplace Data Entry</p>
-                    <div class="dropdown-right-body-logo mmt-col-5">
+                    <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="amazon.php">
                             <img src="images/dropdown-img/Amazon_icon.png" alt="">Amazon
                         </a>
@@ -131,7 +131,7 @@
             <div class="dropdown-body-2">
                 <div class="dropdown-right-body">
                     <p>Sponsor Ads Management</p>
-                    <div class="dropdown-right-body-logo mmt-col-5">
+                    <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="amazonPPC.php">
                             <img src="images/dropdown-img/Amazon_icon.png" alt="">Amazon
                         </a>
@@ -199,49 +199,77 @@
             </div>
             <div class="dropdown-body-3">
                 <div class="dropdown-right-body">
-                    <p>Creative Graphic Sercices</p>
+                    <p>Sponsor Ads Management</p>
+                    <div class="dropdown-right-body-logo mmt-col-4">
+                        <a href="amazonPPC.php">
+                            <img src="images/dropdown-img/email-marketing.png" alt="">Email Marketing
+                        </a>
+                        <a href="ppc-walmart.php">
+                            <img src="images/dropdown-img/social-media.png" alt="">Social Media <br> Marketing
+                        </a>
+                        <a href="ppc-ebay.php">
+                            <img src="images/dropdown-img/user-engagement.png" alt="">Lead Generation
+                        </a>
+                        <a href="ppc-etsy.php">
+                            <img src="images/dropdown-img/google.png" alt="">Google PPC
+                        </a>
+                        <a href="ppc-overstock.php">
+                            <img src="images/dropdown-img/google.png" alt="">Google Seo
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Search Engine Optimization
+                        </a>
+                      
+                    </div>
+                </div>
+           
+            </div>
+            
+            <div class="dropdown-body-5">
+                <div class="dropdown-right-body">
+                    <p>Creative Graphic Services</p>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Amazon_icon_big.png" alt="">
-                            <div>Amazon A+ Content design</div>
+                            <img src="images/dropdown-img/Amazon_icon.png" alt="">
+                            <div> A+ Content <br> design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Amazon_icon_big.png" alt="">
-                            <div>Amazon brands store design</div>
+                            <img src="images/dropdown-img/Amazon_icon.png" alt="">
+                            <div>Brands store <br> design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Amazon_icon_big.png" alt="">
-                            <div>Amazon Feature Images</div>
+                            <img src="images/dropdown-img/Amazon_icon.png" alt="">
+                            <div>Feature <br> Images</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Video_editing.png" alt="">
+                            <img src="images/dropdown-img/montage.png" alt="">
                             <div>Video editing</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Logo_design.png" alt="">
+                            <img src="images/dropdown-img/logo-design.png" alt="">
                             <div>Logo design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Newsletter_design.png" alt="">
+                            <img src="images/dropdown-img/newsletter.png" alt="">
                             <div>Newsletter design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/banner.png" alt="">
-                            <div>Social media banner design</div>
+                            <img src="images/dropdown-img/social-banner.png" alt="">
+                            <div>Social media banner <br> design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Packaging.png" alt="">
-                            <div>Packaging gift card design</div>
+                            <img src="images/dropdown-img/coffee-bag.png" alt="">
+                            <div>Packaging gift <br> card design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/card_Visiting.png" alt="">
-                            <div>ID card/Visiting Card Design/Flyer</div>
+                            <img src="images/dropdown-img/driving-license.png" alt="">
+                            <div>ID card/Visiting <br> Card Design/Flyer</div>
                         </a>
                     </div>
                 </div>
                 <div class="dropdown-right-body-2">
-                    <p>Creative Graphic used softwere</p>
-                    <div class="dropdown-right-body-logo mmt-col-5">
+                    <p>Creative Graphic Used Software</p>
+                    <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/photoshop.png" alt="">
                             <div>Adobe Photoshop</div>
@@ -256,11 +284,11 @@
                         </a>
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/after-effects.png" alt="">
-                            <div>Adobe Aftereffect</div>
+                            <div>Adobe <br> After effect</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/premiere-pro.png" alt="">
-                            <div>Adobe Aftereffect</div>
+                            <div>Adobe Premier pro</div>
                         </a>
                     </div>
                 </div>
@@ -297,17 +325,17 @@
                         Ad</a></li>
                 <li><a href="#" onclick="topDropdownRightChange(3)" class="dropdown-btn-sub drop-active">Digital
                         Marketing</a></li>
-                <li><a href="#" onclick="topDropdownRightChange()" class="dropdown-btn-sub drop-active">Website
+                <li><a href="#" onclick="topDropdownRightChange(4)" class="dropdown-btn-sub drop-active">Website
                         Development</a>
                 </li>
-                <li><a href="#" onclick="topDropdownRightChange()" class="dropdown-btn-sub drop-active">Creative
+                <li><a href="#" onclick="topDropdownRightChange(5)" class="dropdown-btn-sub drop-active">Creative
                         Graphics</a></li>
-                <li><a href="#" onclick="topDropdownRightChange()" class="dropdown-btn-sub drop-active">Customer
+                <li><a href="#" onclick="topDropdownRightChange(6)" class="dropdown-btn-sub drop-active">Customer
                         Support</a></li>
             </ul>
         </div>
         <div class="dropdown-left-footer">
-            <a href="#">Resourece</a>
+            <a href="#">Resource</a>
             <a href="#">About</a>
             <a href="#">Privacy Policy</a>
         </div>
@@ -577,6 +605,152 @@
                     <li>
                         <a href="shop.php">
                             Linnworks
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="dropdown-left-footer">
+            <a href="#" style="color: black">+1-347-305-0089</a>
+            <a href="#" style="color: black">info@ecomclips.com</a>
+            <a href="#" style="color: black">Skype:ecomclips</a>
+        </div>
+    </div>
+</div>
+
+<div class="home-desktop-hide">
+    <div class="mobile-nav-drop-right" id="Digital_Marketing_mobile">
+        <div class="dropdown-nav_cross_right">
+            <img src="images/dropdown-img/phone_icon.png" alt="" height="20px" width="20px">
+            <p>+1-415-800-4984</p>
+            <img src="images/dropdown-img/nav_cross.png" height="28px" width="28px" alt=""
+                onclick="topDropdownRightChange(3)">
+        </div>
+        <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
+            <p clas="">Digital Marketing</p>
+            <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+                <li>
+                    <a href="amazonPPC.php">
+                    Email marketing
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-walmart.php">
+                    Social media marketing
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-ebay.php">
+                    Lead Generation
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-etsy.php">
+                    Google PPC
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-fingerhut.php">
+                    Google Seo
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Search Engine Optimization 
+                    </a>
+                </li>
+                
+            </ul>
+            <img src="images/datamanagement/right_arrow.png" alt="" onclick="topDropdownRightChange(3)">
+          
+        </div>
+        <div class="dropdown-left-footer">
+            <a href="#" style="color: black">+1-347-305-0089</a>
+            <a href="#" style="color: black">info@ecomclips.com</a>
+            <a href="#" style="color: black">Skype:ecomclips</a>
+        </div>
+    </div>
+</div>
+<div class="home-desktop-hide">
+    <div class="mobile-nav-drop-right" id="Creative_Graphics_mobile">
+        <div class="dropdown-nav_cross_right">
+            <img src="images/dropdown-img/phone_icon.png" alt="" height="20px" width="20px">
+            <p>+1-415-800-4984</p>
+            <img src="images/dropdown-img/nav_cross.png" height="28px" width="28px" alt=""
+                onclick="topDropdownRightChange(5)">
+        </div>
+        <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
+            <p clas="">Creative Graphics</p>
+            <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+                <li>
+                    <a href="amazonPPC.php">
+                    A+ Content Design
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-walmart.php">
+                   Brand Store design
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-ebay.php">
+                    Featured Images
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-etsy.php">
+                   Video Editing
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-fingerhut.php">
+                 Newsletter design
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Social media banner design
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Packaging gift card design
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    ID card/Visiting Card Design/Flyer
+                    </a>
+                </li>
+                
+            </ul>
+            <img src="images/datamanagement/right_arrow.png" alt="" onclick="topDropdownRightChange(3)">
+            <div class="ecc-mt-40">
+                <p clas="">Creative Graphic Used Software</p>
+                <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+                    <li>
+                        <a href="channelAdvisor.php">
+                        Adobe Photoshop
+                        </a>
+                    </li>
+                    <li>
+                        <a href="ecomdash.php">
+                        Adobe Illustrator
+                        </a>
+                    </li>
+                    <li>
+                        <a href="sellbrite.php">
+                        Adobe InDesign
+                        </a>
+                    </li>
+                    <li>
+                        <a href="linnwork.php">
+                           Adobe AfterEffect
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solidCommerce.php">
+                           Adobe Premier Pro
                         </a>
                     </li>
                 </ul>

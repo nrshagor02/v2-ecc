@@ -750,7 +750,7 @@
                     </li>
                     <li>
                         <a href="solidCommerce.php">
-                           Adobe Premier Pro
+                           Adobe PremierPro
                         </a>
                     </li>
                 </ul>

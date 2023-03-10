@@ -1024,7 +1024,7 @@
                     labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
                     et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est </p>
             </div>
-            <div class="brand-body home-tablet-hide" id="brand-body">
+            <div class="brand-body" id="brand-body">
                 <div class="brand-body-1">
                     <div class="brand-border">
                         <img src="images/icon/techtech.png" alt="" class="brand-image1">
@@ -1080,7 +1080,7 @@
                 </div>
             </div>
             <!-- Design tablet -->
-            <div class="brand-body home-tablet-show">
+            <div class="brand-body ">
                 <div class="brand-body-1">
                     <div>
                         <img class="responsive-img" src="images/icon/techtech.png" alt="" class="brand-image1">

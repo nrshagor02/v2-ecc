@@ -230,7 +230,7 @@
                     <p>Creative Graphic Services</p>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Amazon_icon.png" alt="">
+                            <img src="images/dropdown-img/amazon_icon.png" alt="">
                             <div> A+ Content <br> design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">

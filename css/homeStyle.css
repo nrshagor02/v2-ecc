@@ -2272,7 +2272,7 @@ span.biram-chinno-rev {
     margin: 43px auto auto auto;
   }
   .home-tablet-show {
-    display: block;
+    display: block !important;
   }
 
   .home-tablet-hide {

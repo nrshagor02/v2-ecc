@@ -1027,51 +1027,55 @@
             <div class="brand-body home-tablet-hide" id="brand-body">
                 <div class="brand-body-1">
                     <div class="brand-border">
-                        <img src="images/icon/Techtech.png" alt="" class="brand-image1">
-                        <img src="images/icon/Shopanage.png" alt="" class="testing">
+                        <img src="images/icon/techtech.png" alt="" class="brand-image1">
+                        <img src="images/icon/shopanage.png" alt="" class="testing">
                     </div>
                     <div class="brand-border">
-                        <img src="images/icon/Golden-fox.png" alt="">
+                        <img src="images/icon/golden-fox.png" alt="">
                     </div>
                     <div class="brand-border">
-                        <img src="images/icon/Sartex.png" alt="">
+                        <img src="images/icon/sartex.png" alt="">
                     </div>
                     <div class="brand-bottom-border">
-                        <img src="images/icon/Urban-X.png" alt="" class="brand-image1">
-                        <img src="images/icon/Home-city.png" alt="" class="testing2">
+                        <img src="images/icon/urban-X.png" alt="" class="brand-image1">
+                        <img src="images/icon/home-city.png" alt="" class="testing2">
 
                     </div>
                 </div>
                 <div class="brand-body-2">
                     <div class="brand-border">
-                        <img src="images/icon/Dynamo.png" alt="">
+                        <img src="images/icon/dynamo.png" alt="">
                     </div>
                     <div class="brand-border">
-                        <img src="images/icon/Rocksolar.png" alt="" class="brand-image1">
-                        <img src="images/icon/Techtech.png" alt="" class="testing6">
+                        <img src="images/icon/rocksolar.png" alt="" class="brand-image1">
+                        <img src="images/icon/techtech.png" alt="" class="testing6">
                     </div>
                     <div class="brand-border">
-                        <img src="images/icon/Dreiback.png" alt="" class="brand-image1">
-                        <img src="images/icon/Urban-X.png" alt="" class="testing7">
+                        <img src="images/icon/dreiback.png" alt="" class="brand-image1">
+                        <img src="images/icon/urban-X.png" alt="" class="testing7">
                     </div>
                     <div class="brand-bottom-border">
-                    <img src="images/icon/Home-city.png" alt="" class="testing2">
+                    <img src="images/icon/dreiback.png" alt="" class="brand-image1">
+                        <img src="images/icon/urban-X.png" alt="" class="testing7">
                     </div>
+                    <!-- <div class="brand-bottom-border">
+                    <img src="images/icon/home-city.png" alt="" class="testing2">
+                    </div> -->
                 </div>
                 <div class="brand-body-3">
                     <div class="brand-border">
-                        <img src="images/icon/Garden-mile.png" alt="" class="brand-image1">
-                        <img src="images/icon/Rocksolar.png" alt="" class="testing9">
+                        <img src="images/icon/garden-mile.png" alt="" class="brand-image1">
+                        <img src="images/icon/rocksolar.png" alt="" class="testing9">
                     </div>
                     <div class="brand-border">
-                        <img src="images/icon/IMPRESSSOPNS.png" alt="">
+                        <img src="images/icon/iMPRESSSOPNS.png" alt="">
                     </div>
                     <div class="brand-border">
-                        <img src="images/icon/Zena.png" alt="">
+                        <img src="images/icon/zena.png" alt="">
                     </div>
                     <div class="brand-pading">
-                        <img src="images/icon/Shopanage.png" alt="" class="brand-image1">
-                        <img src="images/icon/Dreiback.png" alt="" class="testing12">
+                        <img src="images/icon/shopanage.png" alt="" class="brand-image1">
+                        <img src="images/icon/dreiback.png" alt="" class="testing12">
                     </div>
                 </div>
             </div>
@@ -1079,55 +1083,55 @@
             <div class="brand-body home-tablet-show">
                 <div class="brand-body-1">
                     <div>
-                        <img class="responsive-img" src="images/icon/Techtech.png" alt="" class="brand-image1">
+                        <img class="responsive-img" src="images/icon/techtech.png" alt="" class="brand-image1">
                         <!-- <img src="images/icon/Shopanage.png" alt="" class="testing"> -->
                     </div>
                     <div>
-                        <img class="responsive-img" src="images/icon/Golden-fox.png" alt="">
+                        <img class="responsive-img" src="images/icon/golden-fox.png" alt="">
                     </div>
                     <div>
-                        <img class="responsive-img" src="images/icon/Sartex.png" alt="">
+                        <img class="responsive-img" src="images/icon/sartex.png" alt="">
                     </div>
 
                 </div>
                 <div class="brand-body-2">
                     <div>
-                        <img class="responsive-img" src="images/icon/Dynamo.png" alt="">
+                        <img class="responsive-img" src="images/icon/dynamo.png" alt="">
                     </div>
                     <div>
-                        <img class="responsive-img" src="images/icon/Rocksolar.png" alt="" class="brand-image1">
+                        <img class="responsive-img" src="images/icon/rocksolar.png" alt="" class="brand-image1">
                         <!-- <img src="images/icon/Techtech.png" alt="" class="testing6"> -->
                     </div>
                     <div>
-                        <img class="responsive-img" src="images/icon/Dreiback.png" alt="" class="brand-image1">
+                        <img class="responsive-img" src="images/icon/dreiback.png" alt="" class="brand-image1">
                         <!-- <img src="images/icon/Urban-X.png" alt="" class="testing7"> -->
                     </div>
 
                 </div>
                 <div class="brand-body-3">
                     <div>
-                        <img class="responsive-img" src="images/icon/Garden-mile.png" alt="" class="brand-image1">
+                        <img class="responsive-img" src="images/icon/garden-mile.png" alt="" class="brand-image1">
                         <!-- <img src="images/icon/Rocksolar.png" alt="" class="testing9"> -->
                     </div>
                     <div>
-                        <img class="responsive-img" src="images/icon/IMPRESSSOPNS.png" alt="">
+                        <img class="responsive-img" src="images/icon/iMPRESSSOPNS.png" alt="">
                     </div>
                     <div>
-                        <img class="responsive-img" src="images/icon/Zena.png" alt="">
+                        <img class="responsive-img" src="images/icon/zena.png" alt="">
                     </div>
 
                 </div>
                 <div class="brand-body-4">
                     <div>
-                        <img class="responsive-img" src="images/icon/Shopanage.png" alt="" class="brand-image1">
+                        <img class="responsive-img" src="images/icon/shopanage.png" alt="" class="brand-image1">
                         <!-- <img src="images/icon/Dreiback.png" alt="" class="testing12"> -->
                     </div>
                     <div>
-                        <img class="responsive-img" src="images/icon/Urban-X.png" alt="" class="brand-image1">
+                        <img class="responsive-img" src="images/icon/urban-X.png" alt="" class="brand-image1">
                         <!-- <img src="images/icon/Home-city.png" alt="" class="testing2"> -->
                     </div>
                     <div>
-                        <img class="responsive-img" src="images/icon/Home-city.png" alt="">
+                        <img class="responsive-img" src="images/icon/home-city.png" alt="">
                     </div>
                 </div>
             </div>

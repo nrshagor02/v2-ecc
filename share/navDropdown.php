@@ -234,11 +234,11 @@
                             <div> A+ Content <br> design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Amazon_icon.png" alt="">
+                            <img src="images/dropdown-img/amazon_icon.png" alt="">
                             <div>Brands store <br> design</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
-                            <img src="images/dropdown-img/Amazon_icon.png" alt="">
+                            <img src="images/dropdown-img/amazon_icon.png" alt="">
                             <div>Feature <br> Images</div>
                         </a>
                         <a href="#" class="ecc-d-flex">

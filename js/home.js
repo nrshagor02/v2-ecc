@@ -391,31 +391,31 @@ window.addEventListener("scroll", (event) => {
 // --------------------------------------------
 
 function dropdownRightChange(id) {
-  if (id == 1) {
+  if (id === 1) {
     $(".dropdown-body-1").css({ display: "block" });
     $(".dropdown-body-2").css({ display: "none" });
     $(".dropdown-body-3").css({ display: "none" });
     $(".dropdown-body-4").css({ display: "none" });
     $(".dropdown-body-5").css({ display: "none" });
-  } else if (id == 2) {
+  } else if (id === 2) {
     $(".dropdown-body-1").css({ display: "none" });
     $(".dropdown-body-2").css({ display: "block" });
     $(".dropdown-body-3").css({ display: "none" });
     $(".dropdown-body-4").css({ display: "none" });
     $(".dropdown-body-5").css({ display: "none" });
-  } else if (id == 3) {
+  } else if (id === 3) {
     $(".dropdown-body-1").css({ display: "none" });
     $(".dropdown-body-2").css({ display: "none" });
     $(".dropdown-body-3").css({ display: "block" });
     $(".dropdown-body-4").css({ display: "none" });
     $(".dropdown-body-5").css({ display: "none" });
-  } else if (id == 4) {
+  } else if (id === 4) {
     $(".dropdown-body-1").css({ display: "none" });
     $(".dropdown-body-2").css({ display: "none" });
     $(".dropdown-body-3").css({ display: "none" });
     $(".dropdown-body-4").css({ display: "block" });
     $(".dropdown-body-5").css({ display: "none" });
-  } else if (id == 5) {
+  } else if (id === 5) {
     $(".dropdown-body-1").css({ display: "none" });
     $(".dropdown-body-2").css({ display: "none" });
     $(".dropdown-body-3").css({ display: "none" });

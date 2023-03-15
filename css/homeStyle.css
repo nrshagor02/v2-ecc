@@ -2206,9 +2206,6 @@ span.biram-chinno-rev {
     margin-left: auto;
     margin-right: auto;
   }
-  .tablet-hide {
-    display: none;
-  }
 
   /* .review-container {
     width: 1522px;
@@ -3559,5 +3556,10 @@ span.biram-chinno-rev {
     height: 100%;
     width: 100%;
     margin-bottom: 30px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .mobile-brand-flex:nth-child(2n) {
+    background-color: #0b83fe;
   }
 }

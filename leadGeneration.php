@@ -12,10 +12,10 @@
                 <div class="amazon-hero-text">
                     <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
                         <h4>Grow profits quickly on Amazon</h4>
-                        <h2>The secret to successful <br> email marketing</h2>
+                        <h2>Generate More Leads, Grow Your Business</h2>
                     </div>
-                    <p>Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
-and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
+                    <p>Amazon Lead Generation management refers to the process of optimizing
+                        and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
                     <div class="amazon-hero-counter">
                         <div>
                             <h4>5+</h4>
@@ -58,8 +58,8 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
             <!--mobile fahim -->
 <div class="mobile-dm-container data-management-bg-color mobile-show tablet-hide">
         <h3>Grow profits quickly on Amazon</h3>
-        <h1>The secret to successful <br> email marketing</h1>
-        <p class="m-dm-hero-text">Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
+        <h2>Generate More Leads, Grow Your Business</h2>
+        <p class="m-dm-hero-text">Amazon Lead Generation management refers to the process of optimizing
 and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
         <img src="images/datamanagement/dataManagementBg.png" class="mobile-hero-bg" alt="">
 
@@ -81,10 +81,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
 <!--mobile fahim -->
 <!-- tablet---fahim -->
 <div class="tablet-dm-container data-management-bg-color mobile-hide tablet-show">
-        <h3>Grow profits quickly on Etsy</h3>
-        <h1>A-Z Data Management <br> for Etsy Stores</h1>
-        <p class="m-dm-hero-text">Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
-and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x**</p>
+        <h3>Grow profits quickly on Amazon</h3>
+         <h2>Generate More Leads, Grow Your Business</h2>
+        <p class="m-dm-hero-text">Amazon Lead Generation management refers to the process of optimizing
+and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
         <div class="t-dm-amazon-content">
             <div class="t-dm-hero-left">
                 <div class="t-dm-hero-card">
@@ -180,8 +180,8 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Manage all emails from one place</h2>
+                    <h4>Services for Lead Generation</h4>
+                    <h2>Lead Capture & Qualification</h2>
                 </div>
                 <p>We don’t jump into work without understanding the market.
                 Firstly we research competitors on Etsy to understand
@@ -219,8 +219,8 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Have your emails ranked intelligently</h2>
+                    <h4>Services for Lead Generation</h4>
+                    <h2>Lead Nurturing & Scoring</h2>
                 </div>
                 <p>After completing the competitor & market research we work on
                     the analysis of the keyword by using different tools like Jungle
@@ -261,8 +261,8 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row amazon-data-margin">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Be notified about important mail</h2>
+                    <h4>Services for Lead Generation</h4>
+                    <h2>Analytics and Reporting</h2>
                 </div>
                 <p>After completing the campaign created the campaigns we
                     regularly review your campaigns’ performance data and
@@ -299,47 +299,6 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
 </section>
 
 
-<section>
-    <div class="amazon-container mobile-hide tablet-hide">
-        <div class="amazon-row amazon-data-margin">
-            <div class="amazon-store-left">
-                <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Have good mail rescued from spam</h2>
-                </div>
-                <p>End of each week we Analysis campaigns Data and prepare
-                    a report. We monitor all key metrics such as impressions,
-                    clicks, CTR, CPC, ACoS, TACoS, conversion rate, etc to assess
-                    the success of campaigns. We also prepare to customize
-                    reports to meet your specific needs and requirements by
-                    selecting the data you want to see and the format you prefer.
-                    We use those data to take our next step and where we need
-                    to focus. Starting each week we will share the report and we
-                    can get into a call to discuss everything.</p>
-                <div class="designer-button">
-                    <div class="designer-middle-button">
-                        <p class="designer-middle-btnText">I am convinced</p>
-                        <div class="designer-middle-btnTwo">
-                            <a href="pricing.php">
-                                <p class="designer-middle-btnText2">Show me pricing</p>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="designer-middle-button">
-                        <p class="designer-middle-btnText">Get free trial</p>
-                        <div class="designer-middle-btnTwo">
-                            <p class="designer-middle-btnText2" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                Sends details</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="amazon-store-right">
-                <img src="images/datamanagement/Etsy-Analysis.png" alt="Etsy-Analysis">
-            </div>
-        </div>
-    </div>
-</section>
 
   
 <section class="home-desktop-hide">
@@ -352,7 +311,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                         <div class="item">
                             <h3>Why choose us?</h3>
                             <h1>Driving Growth And Success
-                        For Your Etsy Business</h1>
+                        For Your Lead Generation Business</h1>
                          
                             <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
                           
@@ -385,7 +344,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                         </div>
                         <div class="item">
                             <h3>In your amazon growth strategy</h3>
-                            <h1>Keywords research & Campaigns Creation</h1>
+                            <h1>Lead Nurturing & Scoring</h1>
                          
                             <img src="images/ppc/amazon-keyword.png"  class="mobile-carousel-dm-img" alt="">
                          
@@ -400,24 +359,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                             </div>
                            
                         </div>
-                        <div class="item">
-                            <h3>In your amazon growth strategy</h3>
-                            <h1>Adjusting & Optimizing</h1>
-                         
-                            <img src="images/ppc/amazon-adjusting.png"  class="mobile-carousel-dm-img" alt="">
-                        
-                            <div class="ecommerce-body text-dm-mobile">
-                                <p class="m-dm-carousel-card-text">
-                                After completing the competitor & market research we work on
-                                the analysis of the keyword by using different tools like Jungle
-                                Scout, Helium 10. Based on our research we create a list of
-                                keywords that we want to target and prioritize based on
-                                relevance and search volume. 
-                                </p>
-                            </div>
-                          
-                        </div>
-                       
+                
                         <div class="item">
                             <h3>In your amazon growth strategy</h3>
                             <h1>Analysis Data & Reporting</h1>

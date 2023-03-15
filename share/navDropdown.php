@@ -170,28 +170,28 @@
                 <div class="dropdown-right-body-2">
                     <p>Multichannel Ecommerce Services</p>
                     <div class="dropdown-right-body-logo mmt-col-4">
-                        <a href="#">
+                        <a href="helium10.php">
                             <img src="images/dropdown-img/Helium.png" alt="">Helium 10
                         </a>
                         <a href="#">
                             <img src="images/dropdown-img/channel.png" alt="">Channel Advisor
                         </a>
-                        <a href="#">
+                        <a href="jungleScout.php">
                             <img src="images/dropdown-img/jungle_scout.png" alt="">jungle scout
                         </a>
-                        <a href="#">
+                        <a href="sellerboard.php">
                             <img src="images/dropdown-img/Sellerboard.png" alt="">Sellerboard
                         </a>
-                        <a href="#">
+                        <a href="sellozo.php">
                             <img src="images/dropdown-img/Sellozo.png" alt="">Sellozo
                         </a>
-                        <a href="#">
+                        <a href="perpetua.php">
                             <img src="images/dropdown-img/Perpetua.png" alt="">Perpetua
                         </a>
-                        <a href="#">
+                        <a href="merchantWords.php">
                             <img src="images/dropdown-img/Merchant_Words.png" alt="">Merchant Words
                         </a>
-                        <a href="#">
+                        <a href="quartile.php">
                             <img src="images/dropdown-img/Quartile.png" alt="">Quartile
                         </a>
                     </div>
@@ -199,18 +199,18 @@
             </div>
             <div class="dropdown-body-3">
                 <div class="dropdown-right-body">
-                    <p>Sponsor Ads Management</p>
+                    <p>Digital Marketing </p>
                     <div class="dropdown-right-body-logo mmt-col-4">
-                        <a href="amazonPPC.php">
+                        <a href="emailMarketing.php">
                             <img src="images/dropdown-img/email-marketing.png" alt="">Email Marketing
                         </a>
-                        <a href="ppc-walmart.php">
+                        <a href="socialDesign.php">
                             <img src="images/dropdown-img/social-media.png" alt="">Social Media <br> Marketing
                         </a>
-                        <a href="ppc-ebay.php">
+                        <a href="leadGeneration.php">
                             <img src="images/dropdown-img/user-engagement.png" alt="">Lead Generation
                         </a>
-                        <a href="ppc-etsy.php">
+                        <a href="googlePPC.php">
                             <img src="images/dropdown-img/google.png" alt="">Google PPC
                         </a>
                         <a href="ppc-overstock.php">
@@ -224,12 +224,40 @@
                 </div>
            
             </div>
-            
+            <div class="dropdown-body-4">
+                <div class="dropdown-right-body">
+                    <p>Website Development</p>
+                    <div class="dropdown-right-body-logo mmt-col-4">
+                        <a href="emailMarketing.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Magento <br> E-commerce
+                        </a>
+                        <a href="socialDesign.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Shopify <br> E-commerce 
+                        </a>
+                        <a href="leadGeneration.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Big-commerce <br> E-commerce
+                        </a>
+                        <a href="googlePPC.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Woo commerce E-commerce  
+                        </a>
+                        <a href="ppc-overstock.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Web Infrastructure <br> & Maintenance
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">UX Website Design
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">UX Website Redesign
+                        </a>
+                    </div>
+                </div>
+           
+            </div>
             <div class="dropdown-body-5">
                 <div class="dropdown-right-body">
                     <p>Creative Graphic Services</p>
                     <div class="dropdown-right-body-logo mmt-col-4">
-                        <a href="#" class="ecc-d-flex">
+                        <a href="Apluscontentdesign.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/amazon_icon.png" alt="">
                             <div> A+ Content <br> design</div>
                         </a>
@@ -289,6 +317,52 @@
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/premiere-pro.png" alt="">
                             <div>Adobe Premier pro</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown-body-6">
+                <div class="dropdown-right-body">
+                    <p>Customer support</p>
+                    <div class="dropdown-right-body-logo mmt-col-4">
+                        <a href="emailMarketing.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Responding Customer <br> Inquiries
+                        </a>
+                        <a href="socialDesign.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Resolve Customer <br> Complaints & Issues
+                        </a>
+                        <a href="leadGeneration.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Order Processing <br> & Management
+                        </a>
+                        <a href="googlePPC.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Return, Refund <br> & Replacement Processing 
+                        </a>
+                        <a href="ppc-overstock.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Shipping Carrier <br> Management
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Warehouse, Manufacturer <br> & Freight Forwarder Management
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Shipment Creation<br> & Tracking
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Contacting Marketplace <br> Support
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Feedback & Review <br> Management
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Social Media <br> Support
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Inbound Sales <br> Management
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Invoice & Shipping <br> Label Management
+                        </a>
+                        <a href="ppc-target.php">
+                            <img src="images/dropdown-img/seo.png" alt="">Reporting: Order Report <br> & Performance Report
                         </a>
                     </div>
                 </div>

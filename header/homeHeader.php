@@ -6,8 +6,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ecomclips</title>
+   
     <link rel="icon" type="image/x-icon" href="images/faveicon-logo.png">
 
+
+
+    <link rel="preload" href="/ecc-v2-php/Font/Raleway-Font/Raleway-Regular.ttf" as="font" crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/Raleway-Font/Raleway-Medium.ttf" as="font" crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/Raleway-Font/Raleway-Bold.ttf" as="font"  crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/Raleway-Font/Raleway-ExtraBold.ttf" as="font" crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-Light.ttf" as="font" crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-Regular.ttf" as="font"  crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-SemiBold.ttf" as="font"  crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-Medium.ttf" as="font" crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-Thin.ttf" as="font" crossorigin>
+    <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-Bold.ttf" as="font" crossorigin>
     <!-- CSS link Start-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">

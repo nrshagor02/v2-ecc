@@ -127,7 +127,7 @@
                 <div class="e-left-margin ">
                     <div class="e-commerce-header">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
+                        <h2>Sponsored Ad</h2>
                     </div>
                     <div class="e-commerce-body">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam enim excepturi ipsum!
@@ -139,13 +139,13 @@
                     </div>
                     <div class="e-commerce-icon">
                         <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about data management Services</p>
+                        <p>Know about sponsored ad Services</p>
                     </div>
                 </div>
                 <div class="e-left-margin">
                     <div class="e-commerce-header">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
+                        <h2>Digital Marketing</h2>
                     </div>
                     <div class="e-commerce-body">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At repudiandae corrupti ad, aut,
@@ -158,13 +158,13 @@
                     </div>
                     <div class="e-commerce-icon">
                         <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about data management Services</p>
+                        <p>Know about digital marketing services</p>
                     </div>
                 </div>
                 <div class="e-left-margin">
                     <div class="e-commerce-header">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
+                        <h2>Website Development</h2>
                     </div>
                     <div class="e-commerce-body">
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi beatae soluta architecto
@@ -177,13 +177,13 @@
                     </div>
                     <div class="e-commerce-icon">
                         <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about data management Services</p>
+                        <p>Know about webiste development services</p>
                     </div>
                 </div>
                 <div class="e-left-margin">
                     <div class="e-commerce-header">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
+                        <h2>Creative Graphics</h2>
                     </div>
                     <div class="e-commerce-body">
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quam ipsa doloribus
@@ -196,13 +196,13 @@
                     </div>
                     <div class="e-commerce-icon">
                         <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about data management Services</p>
+                        <p>Know about creative graphics services</p>
                     </div>
                 </div>
                 <div class="e-left-margin-last circle-end">
                     <div class="e-commerce-header">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
+                        <h2>Customer support</h2>
                     </div>
                     <div class="e-commerce-body">
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat aliquam molestiae sit libero
@@ -214,7 +214,7 @@
                     </div>
                     <div class="e-commerce-icon">
                         <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about data management Services</p>
+                        <p>Know about customer support services</p>
                     </div>
                 </div>
                 <div class="ecommerce-progress-bar">
@@ -228,19 +228,19 @@
                         <img src="images/icon/data-icon.png" alt="" class="data-icon-img">
                     </h1>
                     <h1 class="testingH2">
-                        <img src="images/icon/data-icon.png" alt="" class="data-icon-img">
+                        <img src="images/icon/sponsoredAds.png" alt="" class="data-icon-img">
                     </h1>
                     <h1 class="testingH3">
-                        <img src="images/icon/data-icon.png" alt="" class="data-icon-img">
+                        <img src="images/icon/digitalmarketing.png" alt="" class="data-icon-img">
                     </h1>
                     <h1 class="testingH4">
-                        <img src="images/icon/data-icon.png" alt="" class="data-icon-img">
+                        <img src="images/icon/webDevlopment.png" alt="" class="data-icon-img">
                     </h1>
                     <h1 class="testingH5">
-                        <img src="images/icon/data-icon.png" alt="" class="data-icon-img">
+                        <img src="images/icon/graphic.png" alt="" class="data-icon-img">
                     </h1>
                     <h1 class="testingH6">
-                        <img src="images/icon/data-icon.png" alt="" class="data-icon-img">
+                        <img src="images/icon/customerSupport.png" alt="" class="data-icon-img">
                     </h1>
                 </div>
             </div>
@@ -1024,7 +1024,7 @@
                     labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
                     et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est </p>
             </div>
-            <div class="brand-body" id="brand-body">
+            <div class="brand-body home-tablet-hide" id="brand-body">
                 <div class="brand-body-1">
                     <div class="brand-border">
                         <img src="images/icon/techtech.png" alt="" class="brand-image1">
@@ -1080,7 +1080,7 @@
                 </div>
             </div>
             <!-- Design tablet -->
-            <div class="brand-body ">
+            <div class="brand-body tablet-show">
                 <div class="brand-body-1">
                     <div>
                         <img class="responsive-img" src="images/icon/techtech.png" alt="" class="brand-image1">

@@ -397,29 +397,41 @@ function dropdownRightChange(id) {
     $(".dropdown-body-3").css({ display: "none" });
     $(".dropdown-body-4").css({ display: "none" });
     $(".dropdown-body-5").css({ display: "none" });
+    $(".dropdown-body-6").css({ display: "none" });
   } else if (id === 2) {
     $(".dropdown-body-1").css({ display: "none" });
     $(".dropdown-body-2").css({ display: "block" });
     $(".dropdown-body-3").css({ display: "none" });
     $(".dropdown-body-4").css({ display: "none" });
     $(".dropdown-body-5").css({ display: "none" });
+    $(".dropdown-body-6").css({ display: "none" });
   } else if (id === 3) {
     $(".dropdown-body-1").css({ display: "none" });
     $(".dropdown-body-2").css({ display: "none" });
     $(".dropdown-body-3").css({ display: "block" });
     $(".dropdown-body-4").css({ display: "none" });
     $(".dropdown-body-5").css({ display: "none" });
+    $(".dropdown-body-6").css({ display: "none" });
   } else if (id === 4) {
     $(".dropdown-body-1").css({ display: "none" });
     $(".dropdown-body-2").css({ display: "none" });
     $(".dropdown-body-3").css({ display: "none" });
     $(".dropdown-body-4").css({ display: "block" });
     $(".dropdown-body-5").css({ display: "none" });
+    $(".dropdown-body-6").css({ display: "none" });
   } else if (id === 5) {
     $(".dropdown-body-1").css({ display: "none" });
     $(".dropdown-body-2").css({ display: "none" });
     $(".dropdown-body-3").css({ display: "none" });
     $(".dropdown-body-4").css({ display: "none" });
     $(".dropdown-body-5").css({ display: "block" });
+    $(".dropdown-body-6").css({ display: "none" });
+  } else if (id === 6) {
+    $(".dropdown-body-1").css({ display: "none" });
+    $(".dropdown-body-2").css({ display: "none" });
+    $(".dropdown-body-3").css({ display: "none" });
+    $(".dropdown-body-4").css({ display: "none" });
+    $(".dropdown-body-5").css({ display: "none" });
+    $(".dropdown-body-6").css({ display: "block" });
   }
 }

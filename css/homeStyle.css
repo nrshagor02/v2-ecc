@@ -2231,6 +2231,9 @@ span.biram-chinno-rev {
   .e-left-margin {
     margin-bottom: 20vh;
   }
+  .side {
+    width: 4vw;
+  }
   /* .review-container {
     width: 1522px;
     margin-left: auto;

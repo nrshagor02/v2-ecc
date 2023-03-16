@@ -65,13 +65,13 @@ function topDropdownRightChange(id) {
     $("#Digital_Marketing_mobile").toggleClass("nav-dropdown-wd");
   }
   if (id == 4) {
-    $("#Creative_Graphics_mobile").toggleClass("nav-dropdown-wd");
+    $("#Website_Development_mobile").toggleClass("nav-dropdown-wd");
   }
   if (id == 5) {
     $("#Creative_Graphics_mobile").toggleClass("nav-dropdown-wd");
   }
   if (id == 6) {
-    $("#Creative_Graphics_mobile").toggleClass("nav-dropdown-wd");
+    $("#Customer_Support_mobile").toggleClass("nav-dropdown-wd");
   }
 }
 

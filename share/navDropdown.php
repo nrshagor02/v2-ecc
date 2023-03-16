@@ -201,23 +201,23 @@
                 <div class="dropdown-right-body">
                     <p>Digital Marketing </p>
                     <div class="dropdown-right-body-logo mmt-col-4">
-                        <a href="emailMarketing.php">
-                            <img src="images/dropdown-img/email-marketing.png" alt="">Email Marketing
+                        <a href="emailMarketing.php"  class="ecc-d-flex">
+                            <img src="images/dropdown-img/email-marketing.png" alt=""><div>Email <br> Marketing</div>
                         </a>
-                        <a href="socialDesign.php">
-                            <img src="images/dropdown-img/social-media.png" alt="">Social Media <br> Marketing
+                        <a href="socialDesign.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/social-media.png" alt=""><div>Social Media <br> Marketing</div>
                         </a>
-                        <a href="leadGeneration.php">
-                            <img src="images/dropdown-img/user-engagement.png" alt="">Lead Generation
+                        <a href="leadGeneration.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/user-engagement.png" alt=""><div>Lead <br>  Generation</div>
                         </a>
-                        <a href="googlePPC.php">
-                            <img src="images/dropdown-img/google.png" alt="">Google PPC
+                        <a href="googlePPC.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/google.png" alt=""><div>Google  <br>  PPC</div>
                         </a>
-                        <a href="ppc-overstock.php">
-                            <img src="images/dropdown-img/google.png" alt="">Google Seo
+                        <a href="ppc-overstock.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/google.png" alt=""><div>Google  <br>  Seo</div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Search Engine Optimization
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Search Engine  <br>  Optimization</div>
                         </a>
                       
                     </div>
@@ -228,26 +228,26 @@
                 <div class="dropdown-right-body">
                     <p>Website Development</p>
                     <div class="dropdown-right-body-logo mmt-col-4">
-                        <a href="emailMarketing.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Magento <br> E-commerce
+                        <!-- <a href="magneto.php">
+                            <img src="images/dropdown-img/" alt="">Magento <br> E-commerce
+                        </a> -->
+                        <a href="shopify-ecommerce.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/shopify.png" alt="">  <div> Shopify <br> E-commerce </div>
                         </a>
-                        <a href="socialDesign.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Shopify <br> E-commerce 
+                        <a href="bigCommerce-ecommerce.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/bigcommerce.png" alt="">  <div> Big-commerce <br> E-commerce</div>
                         </a>
-                        <a href="leadGeneration.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Big-commerce <br> E-commerce
+                        <a href="wooCommerce-ecommerce.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/woocommerce.png" alt="">  <div> Woo commerce <br> E-commerce  </div>
                         </a>
-                        <a href="googlePPC.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Woo commerce E-commerce  
+                        <a href="webInfrastructure&Maintenance.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/maintenance.png" alt=""> <div> Web Infrastructure <br> & Maintenance </div>
                         </a>
-                        <a href="ppc-overstock.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Web Infrastructure <br> & Maintenance
+                        <a href="uiwebsiteDesign.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/web-design.png" alt=""> <div> UX Website <br> Design </div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">UX Website Design
-                        </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">UX Website Redesign
+                        <a href="uiwebsiteRedesign.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/ux-interface.png" alt=""> <div> UX Website <br> Redesign </div>
                         </a>
                     </div>
                 </div>
@@ -300,15 +300,15 @@
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/photoshop.png" alt="">
-                            <div>Adobe Photoshop</div>
+                            <div>Adobe <br> Photoshop</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/illustrator.png" alt="">
-                            <div>Adobe Illustrator</div>
+                            <div>Adobe <br> Illustrator</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/indesign.png" alt="">
-                            <div>Adobe InDesign</div>
+                            <div>Adobe <br> InDesign</div>
                         </a>
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/after-effects.png" alt="">
@@ -316,53 +316,53 @@
                         </a>
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/premiere-pro.png" alt="">
-                            <div>Adobe Premier pro</div>
+                            <div>Adobe <br> Premier pro</div>
                         </a>
                     </div>
                 </div>
             </div>
             <div class="dropdown-body-6">
                 <div class="dropdown-right-body">
-                    <p>Customer support</p>
+                    <p>Customer Support</p>
                     <div class="dropdown-right-body-logo mmt-col-4">
-                        <a href="emailMarketing.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Responding Customer <br> Inquiries
+                        <a href="emailMarketing.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Responding Customer <br> Inquiries </div>
                         </a>
-                        <a href="socialDesign.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Resolve Customer <br> Complaints & Issues
+                        <a href="socialDesign.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Resolve Customer <br> Complaints & Issues</div>
                         </a>
-                        <a href="leadGeneration.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Order Processing <br> & Management
+                        <a href="leadGeneration.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Order Processing <br> & Management</div>
                         </a>
-                        <a href="googlePPC.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Return, Refund <br> & Replacement Processing 
+                        <a href="googlePPC.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Return, Refund <br> & Replacement Processing </div>
                         </a>
-                        <a href="ppc-overstock.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Shipping Carrier <br> Management
+                        <a href="ppc-overstock.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Shipping Carrier <br> Management </div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Warehouse, Manufacturer <br> & Freight Forwarder Management
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Warehouse, Manufacturer <br> & Freight Forwarder Management</div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Shipment Creation<br> & Tracking
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Shipment Creation<br> & Tracking </div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Contacting Marketplace <br> Support
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Contacting Marketplace <br> Support</div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Feedback & Review <br> Management
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Feedback & Review <br> Management</div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Social Media <br> Support
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Social Media <br> Support</div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Inbound Sales <br> Management
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Inbound Sales <br> Management</div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Invoice & Shipping <br> Label Management
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Invoice & Shipping <br> Label Management</div>
                         </a>
-                        <a href="ppc-target.php">
-                            <img src="images/dropdown-img/seo.png" alt="">Reporting: Order Report <br> & Performance Report
+                        <a href="ppc-target.php" class="ecc-d-flex">
+                            <img src="images/dropdown-img/seo.png" alt=""><div>Reporting: Order Report <br> & Performance Report</div>
                         </a>
                     </div>
                 </div>
@@ -426,7 +426,7 @@
         </div>
         <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
             <p clas="">Marketplace Data Entry</p>
-            <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+            <ul class="dropdown-right-body-logo-mobile mmt-col-3 data_management_mobile_body">
                 <li>
                     <a href="amazon.php">
                         Amazon
@@ -541,7 +541,7 @@
             <img src="images/datamanagement/right_arrow.png" alt="" onclick="topDropdownRightChange(1)">
             <div class="ecc-mt-40">
                 <p clas="">Marketplace Data Entry</p>
-                <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+                <ul class="dropdown-right-body-logo-mobile mmt-col-3 data_management_mobile_body">
                     <li>
                         <a href="channelAdvisor.php">
                             Channel Advisor
@@ -589,7 +589,7 @@
         </div>
         <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
             <p clas="">Sponsor Ads Management</p>
-            <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+            <ul class="dropdown-right-body-logo-mobile mmt-col-3 data_management_mobile_body">
                 <li>
                     <a href="amazonPPC.php">
                         Amazon
@@ -660,25 +660,45 @@
             <img src="images/datamanagement/right_arrow.png" alt="" onclick="topDropdownRightChange(2)">
             <div class="ecc-mt-40">
                 <p clas="">Marketplace Sponsored Entry</p>
-                <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+                <ul class="dropdown-right-body-logo-mobile mmt-col-3 data_management_mobile_body">
                     <li>
                         <a href="amazon.php">
-                            Channel Advisor
+                           Helium 10 
                         </a>
                     </li>
                     <li>
                         <a href="walmart.php">
-                            Ecomdash
+                            Channel Advisor
                         </a>
                     </li>
                     <li>
                         <a href="ebay.php">
-                            Sellbrite
+                            Jungle scout
                         </a>
                     </li>
                     <li>
                         <a href="shop.php">
-                            Linnworks
+                           Sellerboard 
+                        </a>
+                    </li>
+                    <li>
+                        <a href="shop.php">
+                           Sellozo
+                        </a>
+                    </li>
+                    <li>
+                        <a href="shop.php">
+                           Perpetua
+                        </a>
+                    </li>
+                    <li>
+                        <a href="shop.php">
+                          Merchant Words
+                        </a>
+                    </li>
+                    <li>
+                        <a href="shop.php">
+                         Quartile
                         </a>
                     </li>
                 </ul>
@@ -702,7 +722,7 @@
         </div>
         <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
             <p clas="">Digital Marketing</p>
-            <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+            <ul class="dropdown-right-body-logo-mobile mmt-col-2 data_management_mobile_body">
                 <li>
                     <a href="amazonPPC.php">
                     Email marketing
@@ -746,6 +766,61 @@
     </div>
 </div>
 <div class="home-desktop-hide">
+    <div class="mobile-nav-drop-right" id="Website_Development_mobile">
+        <div class="dropdown-nav_cross_right">
+            <img src="images/dropdown-img/phone_icon.png" alt="" height="20px" width="20px">
+            <p>+1-415-800-4984</p>
+            <img src="images/dropdown-img/nav_cross.png" height="28px" width="28px" alt=""
+                onclick="topDropdownRightChange(4)">
+        </div>
+        <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
+            <p clas="">Website Development</p>
+            <ul class="dropdown-right-body-logo-mobile mmt-col-2 data_management_mobile_body">
+    
+                <li>
+                    <a href="amazonPPC.php">
+                    Shopify E-commerce Development
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-walmart.php">
+                    Big-commerce E-commerce Development
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-ebay.php">
+                    Woo commerce E-commerce  Development
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-etsy.php">
+                    Web Infrastructure & Maintenance
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-fingerhut.php">
+                    UX Website Design
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    UX Website Redesign
+                    </a>
+                </li>
+           
+            </ul>
+            <img src="images/datamanagement/right_arrow.png" alt="" onclick="topDropdownRightChange(4)">
+          
+        </div>
+        <div class="dropdown-left-footer">
+            <a href="#" style="color: black">+1-347-305-0089</a>
+            <a href="#" style="color: black">info@ecomclips.com</a>
+            <a href="#" style="color: black">Skype:ecomclips</a>
+        </div>
+    </div>
+</div>
+
+<div class="home-desktop-hide">
     <div class="mobile-nav-drop-right" id="Creative_Graphics_mobile">
         <div class="dropdown-nav_cross_right">
             <img src="images/dropdown-img/phone_icon.png" alt="" height="20px" width="20px">
@@ -755,8 +830,8 @@
         </div>
         <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
             <p clas="">Creative Graphics</p>
-            <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
-                <li>
+            <ul class="dropdown-right-body-logo-mobile mmt-col-2 data_management_mobile_body">
+            <li>
                     <a href="amazonPPC.php">
                     A+ Content Design
                     </a>
@@ -796,12 +871,12 @@
                     ID card/Visiting Card Design/Flyer
                     </a>
                 </li>
-                
+           
             </ul>
             <img src="images/datamanagement/right_arrow.png" alt="" onclick="topDropdownRightChange(3)">
             <div class="ecc-mt-40">
                 <p clas="">Creative Graphic Used Software</p>
-                <ul class="dropdown-right-body-logo-mobile mmt-col-4 data_management_mobile_body">
+                <ul class="dropdown-right-body-logo-mobile mmt-col-2 data_management_mobile_body">
                     <li>
                         <a href="channelAdvisor.php">
                         Adobe Photoshop
@@ -827,6 +902,124 @@
                            Adobe PremierPro
                         </a>
                     </li>
+                </ul>
+            </div>
+        </div>
+        <div class="dropdown-left-footer">
+            <a href="#" style="color: black">+1-347-305-0089</a>
+            <a href="#" style="color: black">info@ecomclips.com</a>
+            <a href="#" style="color: black">Skype:ecomclips</a>
+        </div>
+    </div>
+</div>
+
+<div class="home-desktop-hide">
+    <div class="mobile-nav-drop-right" id="Customer_Support_mobile">
+        <div class="dropdown-nav_cross_right">
+            <img src="images/dropdown-img/phone_icon.png" alt="" height="20px" width="20px">
+            <p>+1-415-800-4984</p>
+            <img src="images/dropdown-img/nav_cross.png" height="28px" width="28px" alt=""
+                onclick="topDropdownRightChange(6)">
+        </div>
+        <div class="ecc-mt-40 data_management_p" style="padding-left: 2rem">
+            <p clas="">Customer Support</p>
+            <ul class="dropdown-right-body-logo-mobile mmt-col-2 data_management_mobile_body">
+            <li>
+                    <a href="amazonPPC.php">
+                    Responding Customer Inquiries
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-walmart.php">
+                    Resolve Customer Complaints & Issues
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-ebay.php">
+                    Order Processing & Management
+                    </a>
+                </li>
+               
+                <li>
+                    <a href="ppc-fingerhut.php">
+                    Shipping Carrier Management
+                    </a>
+                </li>
+               
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Shipment Creation & Tracking
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Contacting Marketplace Support
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Feedback & Review  Management
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Social Media  Support
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Inbound Sales Management
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Invoice & Shipping Label Management
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-etsy.php">
+                    Return, Refund & Replacement Processing
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Reporting: Order Report  & Performance Report
+                    </a>
+                </li>
+            </ul>
+            <img src="images/datamanagement/right_arrow.png" alt="" onclick="topDropdownRightChange(6)">
+            <div class="ecc-mt-40">
+                <ul class="dropdown-right-body-logo-mobile mmt-col-2 data_management_mobile_body">
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Feedback & Review Management
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Social Media Support
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Inbound Sales Management
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Invoice & Shipping Label Management
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Reporting: Order Report & Performance Report
+                    </a>
+                </li>
+                <li>
+                    <a href="ppc-homedepot.php">
+                    Warehouse, Manufacturer  & Freight Forwarder Management
+                    </a>
+                </li>
                 </ul>
             </div>
         </div>

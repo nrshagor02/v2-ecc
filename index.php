@@ -55,22 +55,22 @@
                     </a>
                     <a href="customerSupport.php">
                         <div class="glass-effect glass-position-3">
-                            <p>Customer Support</p>
+                            <p>Digital Marketing</p>
                         </div>
                     </a>
                     <a href="digitalMarketing.php">
                         <div class="glass-effect glass-position-4">
-                            <p>Digital Marketing</p>
+                            <p>Website Development</p>
                         </div>
                     </a>
                     <a href="websiteDevelopment.php">
                         <div class="glass-effect glass-position-5">
-                            <p>Website Development</p>
+                            <p>Creative Graphics</p>
                         </div>
                     </a>
                     <a href="creativeGraphics.php">
                         <div class="glass-effect glass-position-6">
-                            <p>Creative Graphics</p>
+                            <p>Customer Support</p>
                         </div>
                     </a>
                 </div>
@@ -296,40 +296,40 @@
                     </div>
                     <div class="services-images2" id="servicesImage2">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
-                        <p>Data management refers to the process of
+                        <h2>Sponsored Ad</h2>
+                        <p>Sponsored Ad refers to the process of
                             collecting, storing, organizing, maintaining,
                             and using data effectively and efficiently.</p>
                         <button class="data_manage_section_btn">Explore Services</button>
                     </div>
                     <div class="services-images3" id="servicesImage3">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
-                        <p>Data management refers to the process of
+                        <h2>Digital Marketing</h2>
+                        <p>Digital Marketing refers to the process of
                             collecting, storing, organizing, maintaining,
                             and using data effectively and efficiently.</p>
                         <button class="data_manage_section_btn">Explore Services</button>
                     </div>
                     <div class="services-images4" id="servicesImage4">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
-                        <p>Data management refers to the process of
+                        <h2>Website Development</h2>
+                        <p>Website Development refers to the process of
                             collecting, storing, organizing, maintaining,
                             and using data effectively and efficiently.</p>
                         <button class="data_manage_section_btn">Explore Services</button>
                     </div>
                     <div class="services-images5" id="servicesImage5">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
-                        <p>Data management refers to the process of
+                        <h2>Creative Graphics</h2>
+                        <p>Creative Graphics refers to the process of
                             collecting, storing, organizing, maintaining,
                             and using data effectively and efficiently.</p>
                         <button class="data_manage_section_btn">Explore Services</button>
                     </div>
                     <div class="services-images6" id="servicesImage6">
                         <p>Amazon and Other E-commerce</p>
-                        <h2>Data Management</h2>
-                        <p>Data management refers to the process of
+                        <h2>Customer Support</h2>
+                        <p>Customer Support refers to the process of
                             collecting, storing, organizing, maintaining,
                             and using data effectively and efficiently.</p>
                         <button class="data_manage_section_btn">Explore Services</button>

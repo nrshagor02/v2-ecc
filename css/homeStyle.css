@@ -192,7 +192,7 @@ a.nav-icon-r {
 .hero-left-body p {
   color: #ffffff;
   font-size: 28px;
-  font-family: AcehThin;
+  font-family: AcehThin !important;
   line-height: 42px;
   letter-spacing: 5px;
   margin-bottom: 0px;
@@ -530,7 +530,9 @@ a.nav-icon-r {
   display: flex;
   align-items: start;
 }
-
+.ecc-d-flex img {
+  margin-top: 2px;
+}
 .dropdown-right-body {
   margin-left: 3vw;
 }
@@ -2121,7 +2123,7 @@ span.biram-chinno-rev {
 
   .video-container {
     margin-top: 20vh;
-    width: 1522px;
+    width: 2560px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -2311,6 +2313,7 @@ span.biram-chinno-rev {
     font-size: 32px;
     font-family: RalewayBlod;
     line-height: 27px;
+    text-align: center;
   }
   .mobile-award-header span {
     color: #0b83fe;
@@ -2588,7 +2591,7 @@ span.biram-chinno-rev {
   /* --------------------------------- */
 
   .nav-dropdown-left-mobile .logo {
-    margin-left: 32px;
+    margin-left: 65px;
     top: 23px;
     position: relative;
   }
@@ -2608,7 +2611,7 @@ span.biram-chinno-rev {
   }
 
   .dropdown-nav_cross {
-    margin-right: 7.5vw;
+    margin-right: 11.5vw;
     margin-top: -3px;
     z-index: 10;
     position: relative;
@@ -2691,7 +2694,8 @@ span.biram-chinno-rev {
   }
 
   .data_management_p {
-    margin-left: 3rem;
+    width: 90%;
+    margin-left: 60px;
   }
 
   .dropdown-nav_cross_right p {
@@ -2714,6 +2718,7 @@ span.biram-chinno-rev {
     row-gap: 5px;
     -webkit-column-gap: 30px;
     column-gap: 29px;
+    margin-left: 20px;
   }
 
   .data_management_p p {
@@ -2728,7 +2733,7 @@ span.biram-chinno-rev {
     margin-top: 19vh;
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: end;
   }
 
   /* ------------------------------------ */
@@ -2810,8 +2815,8 @@ span.biram-chinno-rev {
 
   .services-images {
     position: relative;
-    margin-top: 40px;
-    height: 210px;
+    margin-top: 60px;
+    height: 300px;
     width: 288px;
     display: flex;
     gap: 50px;
@@ -3060,7 +3065,18 @@ span.biram-chinno-rev {
   .dropdown-left-footer a {
     font-size: 12px;
     line-height: 16px;
-    margin-left: 39px;
+    margin-left: 0px;
+    align-self: center;
+    justify-self: center;
+  }
+  .dropdown-left-footer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 80%;
+    justify-content: center;
+    margin-top: 10vh;
+    align-self: center;
+    gap: 10px;
   }
 
   ol,
@@ -3087,6 +3103,10 @@ span.biram-chinno-rev {
   .nav-dropdown-ht {
     height: 100vh;
   }
+  .data_management_p {
+    width: 90%;
+    margin-left: 10px;
+  }
 
   .dropdown-nav_cross_right {
     display: flex;
@@ -3104,9 +3124,11 @@ span.biram-chinno-rev {
 
   .data_management_mobile_body a {
     font-size: 12px;
-    line-height: 24px;
+    line-height: 15px;
     font-family: AcehRegular;
     color: black;
+
+    display: block;
   }
 
   .dropdown-right-body-logo-mobile {
@@ -3116,8 +3138,11 @@ span.biram-chinno-rev {
     row-gap: 5px;
     -webkit-column-gap: 30px;
     column-gap: 29px;
+    margin-left: 20px;
   }
-
+  .dropdown-right-body-logo-mobile li {
+    height: 5vh;
+  }
   .data_management_p p {
     font-size: 14px;
     line-height: 24px;

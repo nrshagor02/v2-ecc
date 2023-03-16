@@ -1113,28 +1113,28 @@ img#mouse-img:hover {
 .faq-question-3 {
   position: absolute;
   right: -71px;
-  top: 255px;
+  top: 277px;
   transition: right 1s, top 1s;
 }
 
 .faq-question-4 {
   position: absolute;
   right: -71px;
-  top: 338px;
+  top: 384px;
   transition: right 1s, top 1s;
 }
 
 .faq-question-5 {
   position: absolute;
   right: -71px;
-  top: 445px;
+  top: 490px;
   transition: right 1s, top 1s;
 }
 
 .faq-question-6 {
   position: absolute;
   right: -71px;
-  top: 527px;
+  top: 590px;
   transition: right 1s, top 1s;
 }
 

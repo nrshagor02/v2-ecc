@@ -37,7 +37,9 @@
         <div class="dropdown-body">
             <div class="dropdown-body-1">
                 <div class="dropdown-right-body">
-                    <p>Marketplace Data Entry</p>
+                    <div class="nav-link-container">
+                    <a href="#" class="home-link">Marketplace Data Entry</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="amazon.php">
                             <img src="images/dropdown-img/Amazon_icon.png" alt="">Amazon
@@ -108,7 +110,9 @@
                     </div>
                 </div>
                 <div class="dropdown-right-body-2">
-                    <p>Multichannel Ecommerce Services</p>
+                    <div class="nav-link-container">
+                    <a href="#" class="home-link">Multichannel Ecommerce Services</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="channelAdvisor.php">
                             <img src="images/dropdown-img/channel.png" alt="">Channel Advisor
@@ -130,7 +134,9 @@
             </div>
             <div class="dropdown-body-2">
                 <div class="dropdown-right-body">
-                    <p>Sponsor Ads Management</p>
+                    <div class="nav-link-container">
+                    <a href="#" class="home-link">Sponsor Ads Management</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="amazonPPC.php">
                             <img src="images/dropdown-img/Amazon_icon.png" alt="">Amazon
@@ -168,7 +174,9 @@
                     </div>
                 </div>
                 <div class="dropdown-right-body-2">
-                    <p>Multichannel Ecommerce Services</p>
+                <div class="nav-link-container">
+                    <a href="#" class="home-link">Multichannel Ecommerce Services</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="helium10.php">
                             <img src="images/dropdown-img/Helium.png" alt="">Helium 10
@@ -199,7 +207,9 @@
             </div>
             <div class="dropdown-body-3">
                 <div class="dropdown-right-body">
-                    <p>Digital Marketing </p>
+                    <div class="nav-link-container">
+                    <a href="#" class="home-link">Digital Marketing</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="emailMarketing.php"  class="ecc-d-flex">
                             <img src="images/dropdown-img/email-marketing.png" alt=""><div>Email <br> Marketing</div>
@@ -226,7 +236,9 @@
             </div>
             <div class="dropdown-body-4">
                 <div class="dropdown-right-body">
-                    <p>Website Development</p>
+                <div class="nav-link-container">
+                    <a href="#" class="home-link">Website Development</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <!-- <a href="magneto.php">
                             <img src="images/dropdown-img/" alt="">Magento <br> E-commerce
@@ -255,7 +267,9 @@
             </div>
             <div class="dropdown-body-5">
                 <div class="dropdown-right-body">
-                    <p>Creative Graphic Services</p>
+                <div class="nav-link-container">
+                    <a href="#" class="home-link">Creative Graphic Services</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="Apluscontentdesign.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/amazon_icon.png" alt="">
@@ -296,7 +310,9 @@
                     </div>
                 </div>
                 <div class="dropdown-right-body-2">
-                    <p>Creative Graphic Used Software</p>
+                    <div class="nav-link-container">
+                    <a href="#" class="home-link">Creative Graphic Used Software</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="#" class="ecc-d-flex">
                             <img src="images/dropdown-img/photoshop.png" alt="">
@@ -323,7 +339,9 @@
             </div>
             <div class="dropdown-body-6">
                 <div class="dropdown-right-body">
-                    <p>Customer Support</p>
+                    <div class="nav-link-container">
+                    <a href="#" class="home-link">Customer Support</a>
+                    </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="emailMarketing.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Responding Customer <br> Inquiries </div>

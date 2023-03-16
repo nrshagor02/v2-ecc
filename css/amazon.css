@@ -44,7 +44,9 @@
 }
 .amazon-row-hero {
   display: flex;
-  padding: 0px 20vh;
+
+  width: 80%;
+  margin: auto;
 }
 .amazon-hero-bg-left {
   flex-basis: 50%;
@@ -335,9 +337,9 @@ a {
   transition: transform 0.4s linear 0s, border-left-width 0s linear 0.35s;
 }
 .whitespinner:hover:before {
-  border-top-color: rgb(255, 255, 255);
-  border-right-color: rgb(255, 255, 255);
-  border-bottom-color: rgb(255, 255, 255);
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
   transition: border-top-color 0.15s linear,
     border-right-color 0.15s linear 0.1s, border-bottom-color 0.15s linear 0.2s;
 }

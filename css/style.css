@@ -2429,7 +2429,7 @@ select:-moz-focusring {
     margin-top: 6px;
   }
   .nav label.menu-toggle > span {
-    margin-left: 1.1vh;
+    margin-left: 1.8vh;
   }
   .navber .menu-list li a {
     font-size: 14px;
@@ -3264,7 +3264,7 @@ select:-moz-focusring {
     transform: rotate(-135deg) translateY(3px) translateX(4px);
   }
   .nav label.menu-toggle > span {
-    margin-left: 1vh;
+    margin-left: 2vh;
   }
 
   input[type="checkbox"]:checked

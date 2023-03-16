@@ -145,7 +145,7 @@
 
 
 <section class="mobile-hide tablet-hide">
-    <div class="amazon-container driving-bg">
+    <div class="growth-container  driving-bg">
         <div class="amazon-drive-row">
             <div class="driving-left">
                 <img src="images/datamanagement/driving_groth.png" alt="">

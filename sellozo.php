@@ -11,11 +11,13 @@
             <div class="data-management-container-left ">
                 <div class="amazon-hero-text">
                     <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                        <h4>Grow profits quickly on Amazon</h4>
-                        <h2>The secret to successful <br> email marketing</h2>
+                        <h4>Grow profits quickly on Sellozo</h4>
+                        <h2>Elevate Your Sales <br>
+                        with Sellozo Multichannel <br>
+                        Service</h2>
                     </div>
-                    <p>Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
-and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
+                    <p>Sellozo, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
                     <div class="amazon-hero-counter">
                         <div>
                             <h4>5+</h4>
@@ -51,16 +53,18 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                 </div>
             </div>
             <div class="data-management-container-right">
-             <img src="images/digitalmarketing/store.png" alt="" class="amazon-hero-bg-image">
+             <img src="images/datamanagement/dataManagementBg.png" alt="" class="amazon-hero-bg-image">
             </div>
         </div>
     </div>
             <!--mobile fahim -->
 <div class="mobile-dm-container data-management-bg-color mobile-show tablet-hide">
-        <h3>Grow profits quickly on Amazon</h3>
-        <h1>The secret to successful <br> email marketing</h1>
-        <p class="m-dm-hero-text">Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
-and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
+        <h3>Grow profits quickly on Sellozo</h3>
+        <h1>Elevate Your Sales <br>
+                        with Sellozo Multichannel <br>
+                        Service</h1>
+        <p class="m-dm-hero-text">Sellozo, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
         <img src="images/datamanagement/dataManagementBg.png" class="mobile-hero-bg" alt="">
 
         <div class="m-dm-hero-card">
@@ -81,10 +85,12 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
 <!--mobile fahim -->
 <!-- tablet---fahim -->
 <div class="tablet-dm-container data-management-bg-color mobile-hide tablet-show">
-        <h3>Grow profits quickly on Etsy</h3>
-        <h1>A-Z Data Management <br> for Etsy Stores</h1>
-        <p class="m-dm-hero-text">Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
-and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x**</p>
+        <h3>Grow profits quickly on Sellozo</h3>
+        <h1>Elevate Your Sales <br>
+                        with Sellozo Multichannel<br>
+                        Service</h1>
+        <p class="m-dm-hero-text">Sellozo, the world’s largest retailer, manages a massive amount of
+                        data related to its operations, customers, and supply chain. </p>
         <div class="t-dm-amazon-content">
             <div class="t-dm-hero-left">
                 <div class="t-dm-hero-card">
@@ -114,18 +120,19 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
 </section>
 
 
+
 <section>
-    <div class="we-can-container">
-    <div class="we-can-title" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
+<div class="we-can-container">       
+                <div class="we-can-title" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
                     <h3>Whatever the product is</h3>
-                    <h1>Reduce Your Waste spend and <br> Grow You sale with Low ACoS</h1>
+                    <h1>We  can make <br><span> the best</span> out of it.</h1>
                 </div>
-        <div class="we-can-row">
+                <div class="we-can-row">
             <div class="we-can-left">
-                <img src="images/ppc/reduce-monitor.png" alt="" class="amazon-hero-bg-image">
+            <img src="images/device/wayfair-device.png" alt=""  >
             </div>
             <div class="we-can-right">
-                <img src="images/datamanagement/growth-cart.png" alt="" class="amazon-hero-bg-image">
+                <img src="images/datamanagement/graph-ppc.png" alt="" >
             </div>
         </div>
     </div>
@@ -141,14 +148,14 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
             <div class="driving-right">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
                     <h4>Why Choose Us</h4>
-                    <h2>In your Email Marketing growth strategy, 
+                    <h2>In your Sellozo growth strategy, 
                         Why should you trust our PPC experts ?</h2>
                 </div>
                 <p>We have specialized teams with specific skills and experience in
                     different areas. We can help to scale up your business based on
                     your needs. We have access to a range of resources, technology,
                     and tools, that will help your business to grow. Also, our team of
-                    experts is certified by Etsy learning console. 90% of our clients
+                    experts is certified by  Seller Board learning console. 90% of our clients
                     see improvement in performance within 4 weeks. Please keep in
                     mind that this success rate will differ based on different factors
                     (i.e. SEO, Stock, Review, etc.)</p>
@@ -180,11 +187,11 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Manage all emails from one place</h2>
+                    <h4>Services for  Sellozo</h4>
+                    <h2>Competitor Research & Strategy Set up</h2>
                 </div>
                 <p>We don’t jump into work without understanding the market.
-                Firstly we research competitors on Etsy to understand
+                Firstly we research competitors on Seller Board to understand
                 their strengths, weaknesses, and strategies. Also, analyze
                 their product listings, and keywords to gain insights. After
                 that, we set up our strategy and target.</p>
@@ -207,7 +214,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                 </div>
             </div>
             <div class="amazon-store-right">
-                <img src="images/datamanagement/Etsy-competitor.png" alt="Etsy-competitor">
+                <img src="images/datamanagement/wayfair-competitor.png" alt="wayfair-competitor">
             </div>
         </div>
     </div>
@@ -219,8 +226,8 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Have your emails ranked intelligently</h2>
+                    <h4>Services for Sellozo</h4>
+                    <h2>Keywords research & Campaigns Creation</h2>
                 </div>
                 <p>After completing the competitor & market research we work on
                     the analysis of the keyword by using different tools like Jungle
@@ -249,7 +256,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                 </div>
             </div>
             <div class="amazon-store-right">
-                <img src="images/datamanagement/Etsy-Keyword.png" alt="Etsy-Keyword">
+                <img src="images/datamanagement/wayfair-Keyword.png" alt="wayfair-Keyword">
             </div>
         </div>
     </div>
@@ -261,8 +268,8 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row amazon-data-margin">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Be notified about important mail</h2>
+                    <h4>Services for Sellozo</h4>
+                    <h2>Adjusting & Optimizing</h2>
                 </div>
                 <p>After completing the campaign created the campaigns we
                     regularly review your campaigns’ performance data and
@@ -272,7 +279,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                     effective ad placements to maximize visibility and attract
                     more clicks. Also adding regular negative keywords and
                     making sure we are not overbidding and overspending.
-                    All this step will be taken to reach the target.</p>
+                    All this step will be taken to reach the target./p>
                 <div class="designer-button">
                     <div class="designer-middle-button">
                         <p class="designer-middle-btnText">I am convinced</p>
@@ -292,7 +299,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                 </div>
             </div>
             <div class="amazon-store-right">
-                <img src="images/datamanagement/Etsy-Adjusting.png" alt="Etsy-Adjusting">
+                <img src="images/datamanagement/wayfair-Adjusting.png" alt="wayfair-Adjusting">
             </div>
         </div>
     </div>
@@ -304,8 +311,8 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row amazon-data-margin">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Have good mail rescued from spam</h2>
+                    <h4>Services for Sellozo</h4>
+                    <h2>Analysis Data & Reporting</h2>
                 </div>
                 <p>End of each week we Analysis campaigns Data and prepare
                     a report. We monitor all key metrics such as impressions,
@@ -335,13 +342,11 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                 </div>
             </div>
             <div class="amazon-store-right">
-                <img src="images/datamanagement/Etsy-Analysis.png" alt="Etsy-Analysis">
+                <img src="images/datamanagement/wayfair-Analysis.png" alt="wayfair-Analysis">
             </div>
         </div>
     </div>
 </section>
-
-  
 <section class="home-desktop-hide">
     <!--mobile Design -->
     <div class="m-choose-us-container mobile-show tablet-show">
@@ -352,7 +357,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                         <div class="item">
                             <h3>Why choose us?</h3>
                             <h1>Driving Growth And Success
-                        For Your Etsy Business</h1>
+                        For Your Sellozo Business</h1>
                          
                             <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
                           
@@ -367,10 +372,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                           
                         </div>
                         <div class="item">
-                            <h3>In your amazon growth strategy</h3>
+                            <h3>In your Sellozo growth strategy</h3>
                             <h1>Competitor Research & Strategy Set up</h1>
                           
-                            <img src="images/ppc/amazon-competitor.png"  class="mobile-carousel-dm-img" alt="">
+                            <img src="images/datamanagement/Overstock-competitor.png"  class="mobile-carousel-dm-img" alt="">
                            
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
@@ -384,10 +389,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                           
                         </div>
                         <div class="item">
-                            <h3>In your amazon growth strategy</h3>
+                            <h3>In your Sellozo growth strategy</h3>
                             <h1>Keywords research & Campaigns Creation</h1>
                          
-                            <img src="images/ppc/amazon-keyword.png"  class="mobile-carousel-dm-img" alt="">
+                            <img src="images/datamanagement/wayfair-Keyword.png"  class="mobile-carousel-dm-img" alt="">
                          
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
@@ -401,10 +406,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                            
                         </div>
                         <div class="item">
-                            <h3>In your amazon growth strategy</h3>
+                            <h3>In your Sellozo growth strategy</h3>
                             <h1>Adjusting & Optimizing</h1>
                          
-                            <img src="images/ppc/amazon-adjusting.png"  class="mobile-carousel-dm-img" alt="">
+                            <img src="images/datamanagement/wayfair-Adjusting.png"  class="mobile-carousel-dm-img" alt="">
                         
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
@@ -419,10 +424,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                         </div>
                        
                         <div class="item">
-                            <h3>In your amazon growth strategy</h3>
+                            <h3>In your Sellozo growth strategy</h3>
                             <h1>Analysis Data & Reporting</h1>
                          
-                            <img src="images/ppc/amazon-analysis.png"  class="mobile-carousel-dm-img" alt="">
+                            <img src="images/datamanagement/wayfair-Analysis.png"  class="mobile-carousel-dm-img" alt="">
                         
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
@@ -447,8 +452,6 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
     <!--mobile Design -->
 </section>
 
-
-
 <?php
 include('share/whereToBegin.php');
 
@@ -458,82 +461,120 @@ include('share/whereToBegin.php');
 <section>
     <div class="amazon-container">
         <div class="amazon-data-row">
-            <h2>Other <span>Sponsor Ads Management</span> services</h2>
+            <h2>Other <span>Data Management</span> services </h2>
             <div class="amazon-data-management">
-                <div class="data-management-logo">
+                <a href="walmart.php" class="data-management-logo">
                     <img src="images//datamanagement/walmart-icon.png" alt="">
-                    <p class="ecc-mt-15">Walmart <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
+                    <p class="ecc-mt-15">Walmart <br> Data managements</p>
+                </a>
+                <a href="ebay.php" class="data-management-logo">
                     <img src="images//datamanagement/ebay-icon.png" alt="">
-                    <p class="ecc-mt-15">ebay <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
+                    <p class="ecc-mt-15">ebay <br> Data managements</p>
+                </a>
+                <a href="shop.php" class="data-management-logo">
+                    <img src="images//datamanagement/shop-icon.png" alt="">
+                    <p class="ecc-mt-15">Shop.com <br> Data managements</p>
+                </a>
+                <a href="overstock.php" class="data-management-logo">
                     <img src="images//datamanagement/overstock.png" alt="">
-                    <p class="ecc-mt-15">Overstock <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
-                    <img src="images//datamanagement/wayfairs.png" alt="">
-                    <p class="ecc-mt-15">Wayfair <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
+                    <p class="ecc-mt-15">Overstock <br> Data managements</p>
+                </a>
+                <a href="bestBuy.php" class="data-management-logo">
+                    <img src="images//datamanagement/best_buy.png" alt="">
+                    <p class="ecc-mt-15">Best Buy <br> Data managements</p>
+                </a>
+                <a href="bigCommerce.php" class="data-management-logo">
+                    <img src="images//datamanagement/bigCommerc.png" alt="">
+                    <p class="ecc-mt-15">BigCommerce <br> Data managements</p>
+                </a>
+                <a href="shopify.php" class="data-management-logo">
+                    <img src="images//datamanagement/shopify.png" alt="">
+                    <p class="ecc-mt-15">Shopify <br> Data managements</p>
+                </a>
+                <a href="newEgg.php" class="data-management-logo">
                     <img src="images//datamanagement/NewEgg-icon.png" alt="">
-                    <p class="ecc-mt-15">Newegg <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
-                    <img src="images//datamanagement/etsy-icon.png" alt="">
-                    <p class="ecc-mt-15">Etsy <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
-                    <img src="images//datamanagement/macy.png" alt="">
-                    <p class="ecc-mt-15">Macy's <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
-                    <img src="images//datamanagement/TheHomeDepot.svg.png" alt="">
-                    <p class="ecc-mt-15">Home Depot <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
-                    <img src="images//datamanagement/NEW-Sears-ICON.png" alt="">
-                    <p class="ecc-mt-15">Sears <br> Sponsor Ads Management</p>
-                </div>
+                    <p class="ecc-mt-15">Newegg <br> Data managements</p>
+                </a>
+                <a href="wish.php" class="data-management-logo">
+                    <img src="images//datamanagement/wish-icon.png" alt="">
+                    <p class="ecc-mt-15">Wish <br> Data managements</p>
+                </a>
+                <a href="fruugo.php" class="data-management-logo">
+                    <img src="images//datamanagement/fruugo-icon.png" alt="">
+                    <p class="ecc-mt-15">Fruugo <br> Data managements</p>
+                </a>
+                <a href="manomano.php" class="data-management-logo">
+                    <img src="images//datamanagement/manamana.png" alt="">
+                    <p class="ecc-mt-15">ManoMano <br> Data managements</p>
+                </a>
+                <a href="shop.php" class="data-management-logo">
+                    <img src="images//datamanagement/shop-icon.png" alt="">
+                    <p class="ecc-mt-15">Shop.com <br> Data managements</p>
+                </a>
+                <a href="target.php" class="data-management-logo">
+                    <img src="images//datamanagement/Target_icon.png" alt="">
+                    <p class="ecc-mt-15">Target+<br> Data managements</p>
+                </a>
+                <a href="houzz.php" class="data-management-logo">
+                    <img src="images//datamanagement/Houzz_icon.png" alt="">
+                    <p class="ecc-mt-15">Houzz<br> Data managements</p>
+                </a>
+                <a href="paysfer.php" class="data-management-logo">
+                    <img src="images//datamanagement/Paysfer_icon.png" alt="">
+                    <p class="ecc-mt-15">Paysfer<br> Data managements</p>
+                </a>
+                <a href="rakuten.php" class="data-management-logo">
+                    <img src="images//datamanagement/Rakuten_icon.png" alt="">
+                    <p class="ecc-mt-15">Rakuten<br> Data managements</p>
+                </a>
+                <a href="macys.php" class="data-management-logo">
+                    <img src="images//datamanagement/Macys_icon.png" alt="">
+                    <p class="ecc-mt-15">Macy's<br> Data managements</p>
+                </a>
+                <a href="kroger.php" class="data-management-logo">
+                    <img src="images//datamanagement/kroger_icon.png" alt="">
+                    <p class="ecc-mt-15">Kroger<br> Data managements</p>
+                </a>
+                <a href="homeDepot.php" class="data-management-logo">
+                    <img src="images//datamanagement/HomeDepot_icon.png" alt="">
+                    <p class="ecc-mt-15">HomeDepot<br> Data managements</p>
+                </a>
+                <a href="myUS.php" class="data-management-logo">
+                    <img src="images//datamanagement/MyUS_icon.png" alt="">
+                    <p class="ecc-mt-15">MyUS<br> Data managements</p>
+                </a>
+                <a href="christmas.php" class="data-management-logo">
+                    <img src="images//datamanagement/Christmas_icon.png" alt="">
+                    <p class="ecc-mt-15">Christmas<br> Data managements</p>
+                </a>
+                <a href="sears.php" class="data-management-logo">
+                    <img src="images//datamanagement/Sears_icon.png" alt="">
+                    <p class="ecc-mt-15">Sears<br> Data managements</p>
+                </a>
             </div>
         </div>
         <div class="amazon-data-row amazon-data-margin">
             <h2>Multichannel Platforms</h2>
             <div class="amazon-data-management">
                 <div class="data-management-logo">
-                    <img src="images//datamanagement/Helium.png" alt="">
-                    <p class="ecc-mt-15">Helium 10 <br> Sponsor Ads Management</p>
+                    <img src="images//datamanagement/Channel-Advisor-icon.png" alt="">
+                    <p class="ecc-mt-15">Channel Advisor <br> Data managements</p>
                 </div>
                 <div class="data-management-logo">
-                    <img src="images//datamanagement/Channeladvisor.png" alt="">
-                    <p class="ecc-mt-15">Channel advisor <br> Sponsor Ads Management</p>
+                    <img src="images//datamanagement/Ecomdash.png" alt="">
+                    <p class="ecc-mt-15">Ecomdash <br> Data managements</p>
                 </div>
                 <div class="data-management-logo">
-                    <img src="images//datamanagement/junglescout.png" alt="">
-                    <p class="ecc-mt-15">jungle scout <br> Sponsor Ads Management</p>
+                    <img src="images//datamanagement/Sellbritre.png" alt="">
+                    <p class="ecc-mt-15">Sellbritre <br> Data managements</p>
                 </div>
                 <div class="data-management-logo">
-                    <img src="images//datamanagement/Sellerboard.png" alt="">
-                    <p class="ecc-mt-15">Sellerboard <br> Sponsor Ads Management
-                    </p>
+                    <img src="images//datamanagement/Linnworks.png" alt="">
+                    <p class="ecc-mt-15">Linnworks <br> Data managements</p>
                 </div>
                 <div class="data-management-logo">
-                    <img src="images//datamanagement/Sellozo.png" alt="">
-                    <p class="ecc-mt-15">Sellozo <br> Sponsor Ads Management
-                    </p>
-                </div>
-                <div class="data-management-logo">
-                    <img src="images//datamanagement/perpetua.png" alt="">
-                    <p class="ecc-mt-15">Perpetua <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
-                    <img src="images//datamanagement/merchant.png" alt="">
-                    <p class="ecc-mt-15">Merchant Words <br> Sponsor Ads Management</p>
-                </div>
-                <div class="data-management-logo">
-                    <img src="images//datamanagement/quartiles_logo2x.png" alt="">
-                    <p class="ecc-mt-15">Quartile Words <br> Sponsor Ads Management</p>
+                    <img src="images//datamanagement/Solid-Commerce-icon.png" alt="">
+                    <p class="ecc-mt-15">Solid Commerce <br> Data managements</p>
                 </div>
             </div>
         </div>

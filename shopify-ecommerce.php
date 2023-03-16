@@ -11,11 +11,10 @@
             <div class="data-management-container-left ">
                 <div class="amazon-hero-text">
                     <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                        <h4>Grow profits quickly on Amazon</h4>
-                        <h2>The secret to successful <br> email marketing</h2>
+                        <h4>Grow profits quickly on Shopify E-commerce</h4>
+                        <h2>Take Your Business to the Next Level with Shopify E-commerce</h2>
                     </div>
-                    <p>Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
-and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
+                    <p>Shopify E-commerce, Aliquam erat volutpat. Etiam velit ipsum, placerat id faucibus id, mattis faucibus dui.  </p>
                     <div class="amazon-hero-counter">
                         <div>
                             <h4>5+</h4>
@@ -51,16 +50,16 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                 </div>
             </div>
             <div class="data-management-container-right">
-             <img src="images/digitalmarketing/store.png" alt="" class="amazon-hero-bg-image">
+             <img src="images/datamanagement/dataManagementBg.png" alt="" class="amazon-hero-bg-image">
             </div>
         </div>
     </div>
             <!--mobile fahim -->
 <div class="mobile-dm-container data-management-bg-color mobile-show tablet-hide">
-        <h3>Grow profits quickly on Amazon</h3>
-        <h1>The secret to successful <br> email marketing</h1>
-        <p class="m-dm-hero-text">Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
-and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x** </p>
+        <h3>Grow profits quickly on Shopify E-commerce</h3>
+        <h1>Take Your Business to the Next Level with Shopify E-commerce</h1>
+        <p class="m-dm-hero-text">Shopify E-commerce, or pay-per-click, is one of the online advertising 
+platforms, our company provides excellent PPC advertising program  </p>
         <img src="images/datamanagement/dataManagementBg.png" class="mobile-hero-bg" alt="">
 
         <div class="m-dm-hero-card">
@@ -81,10 +80,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
 <!--mobile fahim -->
 <!-- tablet---fahim -->
 <div class="tablet-dm-container data-management-bg-color mobile-hide tablet-show">
-        <h3>Grow profits quickly on Etsy</h3>
-        <h1>A-Z Data Management <br> for Etsy Stores</h1>
-        <p class="m-dm-hero-text">Amazon PPC (Pay-Per-Click) management refers to the process of optimizing
-and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4x**</p>
+        <h3>Grow profits quickly on Shopify E-commerce</h3>
+        <h1>Take Your Business to the Next Level with Shopify E-commerce</h1>
+        <p class="m-dm-hero-text">Shopify E-commerce, or pay-per-click, is one of the online advertising 
+platforms, our company provides excellent PPC advertising program </p>
         <div class="t-dm-amazon-content">
             <div class="t-dm-hero-left">
                 <div class="t-dm-hero-card">
@@ -141,17 +140,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
             <div class="driving-right">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
                     <h4>Why Choose Us</h4>
-                    <h2>In your Email Marketing growth strategy, 
+                    <h2>In your Shopify E-commerce growth strategy, 
                         Why should you trust our PPC experts ?</h2>
                 </div>
-                <p>We have specialized teams with specific skills and experience in
-                    different areas. We can help to scale up your business based on
-                    your needs. We have access to a range of resources, technology,
-                    and tools, that will help your business to grow. Also, our team of
-                    experts is certified by Etsy learning console. 90% of our clients
-                    see improvement in performance within 4 weeks. Please keep in
-                    mind that this success rate will differ based on different factors
-                    (i.e. SEO, Stock, Review, etc.)</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet euismod neque. Maecenas sed pellentesque massa. Praesent sed sem egestas magna rhoncus fermentum quis a nisi. In id massa et ex consectetur aliquet. Suspendisse at erat at nisl dictum rhoncus. Maecenas justo urna, interdum eu fringilla quis, viverra tincidunt sapien. In quis risus interdum felis ultricies blandit quis vitae enim. Cras suscipit, ante in interdum venenatis, lectus arcu facilisis purus, ut tempor urna massa nec metus. Aenean sit amet risus et nibh imperdiet varius.</p>
 
                 <div class="designer-button">
                     <div class="designer-middle-button">
@@ -180,14 +172,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Manage all emails from one place</h2>
+                    <h4>Services for Shopify E-commerce</h4>
+                    <h2>Maecenas venenatis pretium</h2>
                 </div>
-                <p>We don’t jump into work without understanding the market.
-                Firstly we research competitors on Etsy to understand
-                their strengths, weaknesses, and strategies. Also, analyze
-                their product listings, and keywords to gain insights. After
-                that, we set up our strategy and target.</p>
+                <p>Maecenas venenatis pretium felis vel pharetra. Integer diam turpis, porta et nisl in, elementum vehicula nisi. Integer at placerat odio. Etiam condimentum leo dui, quis euismod odio ullamcorper ut. Cras in justo lacinia, vehicula dolor non, imperdiet diam. Proin elementum pulvinar dignissim.</p>
                 <div class="designer-button">
                     <div class="designer-middle-button">
                         <p class="designer-middle-btnText">I am convinced</p>
@@ -219,17 +207,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Have your emails ranked intelligently</h2>
+                    <h4>Services for Shopify E-commerce</h4>
+                    <h2>Lorem ipsum</h2>
                 </div>
-                <p>After completing the competitor & market research we work on
-                    the analysis of the keyword by using different tools like Jungle
-                    Scout, Helium 10. Based on our research we create a list of
-                    keywords that we want to target and prioritize based on
-                    relevance and search volume. And based on that we start 
-                    creating all sorts of campaigns like sponsored products,
-                    sponsored brand, sponsored video, sponsored display,
-                    display VCPM.</p>
+                <p>Maecenas venenatis pretium felis vel pharetra. Integer diam turpis, porta et nisl in, elementum vehicula nisi. Integer at placerat odio. Etiam condimentum leo dui, quis euismod odio ullamcorper ut. Cras in justo lacinia, vehicula dolor non, imperdiet diam. Proin elementum pulvinar dignissim.</p>
                 <div class="designer-button">
                     <div class="designer-middle-button">
                         <p class="designer-middle-btnText">I am convinced</p>
@@ -261,18 +242,10 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
         <div class="amazon-row amazon-data-margin">
             <div class="amazon-store-left">
                 <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Be notified about important mail</h2>
+                    <h4>Services for Shopify E-commerce</h4>
+                    <h2>Maecenas venenatis</h2>
                 </div>
-                <p>After completing the campaign created the campaigns we
-                    regularly review your campaigns’ performance data and
-                    make adjustments as needed to optimize your results.
-                    Regularly adjusting bids for keywords to ensure that ads
-                    are appearing in the top positions. Choose the most
-                    effective ad placements to maximize visibility and attract
-                    more clicks. Also adding regular negative keywords and
-                    making sure we are not overbidding and overspending.
-                    All this step will be taken to reach the target.</p>
+                <p>Maecenas venenatis pretium felis vel pharetra. Integer diam turpis, porta et nisl in, elementum vehicula nisi. Integer at placerat odio. Etiam condimentum leo dui, quis euismod odio ullamcorper ut. Cras in justo lacinia, vehicula dolor non, imperdiet diam. Proin elementum pulvinar dignissim.</p>
                 <div class="designer-button">
                     <div class="designer-middle-button">
                         <p class="designer-middle-btnText">I am convinced</p>
@@ -299,47 +272,6 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
 </section>
 
 
-<section>
-    <div class="amazon-container mobile-hide tablet-hide">
-        <div class="amazon-row amazon-data-margin">
-            <div class="amazon-store-left">
-                <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Services for amazon</h4>
-                    <h2>Have good mail rescued from spam</h2>
-                </div>
-                <p>End of each week we Analysis campaigns Data and prepare
-                    a report. We monitor all key metrics such as impressions,
-                    clicks, CTR, CPC, ACoS, TACoS, conversion rate, etc to assess
-                    the success of campaigns. We also prepare to customize
-                    reports to meet your specific needs and requirements by
-                    selecting the data you want to see and the format you prefer.
-                    We use those data to take our next step and where we need
-                    to focus. Starting each week we will share the report and we
-                    can get into a call to discuss everything.</p>
-                <div class="designer-button">
-                    <div class="designer-middle-button">
-                        <p class="designer-middle-btnText">I am convinced</p>
-                        <div class="designer-middle-btnTwo">
-                            <a href="pricing.php">
-                                <p class="designer-middle-btnText2">Show me pricing</p>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="designer-middle-button">
-                        <p class="designer-middle-btnText">Get free trial</p>
-                        <div class="designer-middle-btnTwo">
-                            <p class="designer-middle-btnText2" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                Sends details</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="amazon-store-right">
-                <img src="images/datamanagement/Etsy-Analysis.png" alt="Etsy-Analysis">
-            </div>
-        </div>
-    </div>
-</section>
 
   
 <section class="home-desktop-hide">
@@ -352,85 +284,53 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
                         <div class="item">
                             <h3>Why choose us?</h3>
                             <h1>Driving Growth And Success
-                        For Your Etsy Business</h1>
+                        For Your Shopify E-commerce Business</h1>
                          
                             <img src="images/datamanagement/driving_groth.png" class="mobile-carousel-dm-img" alt="">
                           
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                We have specialized teams with specific skills and experience in
-                            different areas. We can help to scale up your business based on
-                            your needs. We have access to a range of resources, technology,
-                            and tools, that will help your business to grow.
+                                Nulla non quam quam. Praesent vehicula faucibus felis. Donec varius rhoncus ex, nec mollis neque ullamcorper a. Nullam sit amet pretium mauris. Vivamus finibus est at lacus suscipit, a ullamcorper sapien varius. Etiam tortor nulla, commodo ut efficitur et, viverra blandit odio. Proin at volutpat erat, et tempor velit.
                                 </p>
                             </div>
                           
                         </div>
                         <div class="item">
-                            <h3>In your amazon growth strategy</h3>
-                            <h1>Competitor Research & Strategy Set up</h1>
+                            <h3>In your Shopify E-commerce growth strategy</h3>
+                            <h1>Nulla non quam</h1>
                           
                             <img src="images/ppc/amazon-competitor.png"  class="mobile-carousel-dm-img" alt="">
                            
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                After completing the competitor & market research we work on
-                                the analysis of the keyword by using different tools like Jungle
-                                Scout, Helium 10. Based on our research we create a list of
-                                keywords that we want to target and prioritize based on
-                                relevance and search volume. 
+                                Nulla non quam quam. Praesent vehicula faucibus felis. Donec varius rhoncus ex, nec mollis neque ullamcorper a. Nullam sit amet pretium mauris. Vivamus finibus est at lacus suscipit, a ullamcorper sapien varius. Etiam tortor nulla, commodo ut efficitur et, viverra blandit odio. Proin at volutpat erat, et tempor velit.
                                 </p>
                             </div>
                           
                         </div>
                         <div class="item">
-                            <h3>In your amazon growth strategy</h3>
-                            <h1>Keywords research & Campaigns Creation</h1>
+                            <h3>In your Shopify E-commerce growth strategy</h3>
+                            <h1>Nulla non quam</h1>
                          
                             <img src="images/ppc/amazon-keyword.png"  class="mobile-carousel-dm-img" alt="">
                          
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                After completing the competitor & market research we work on
-                                the analysis of the keyword by using different tools like Jungle
-                                Scout, Helium 10. Based on our research we create a list of
-                                keywords that we want to target and prioritize based on
-                                relevance and search volume.
+                                Nulla non quam quam. Praesent vehicula faucibus felis. Donec varius rhoncus ex, nec mollis neque ullamcorper a. Nullam sit amet pretium mauris. Vivamus finibus est at lacus suscipit, a ullamcorper sapien varius. Etiam tortor nulla, commodo ut efficitur et, viverra blandit odio. Proin at volutpat erat, et tempor velit.
                                 </p>
                             </div>
                            
                         </div>
+                
                         <div class="item">
-                            <h3>In your amazon growth strategy</h3>
-                            <h1>Adjusting & Optimizing</h1>
-                         
-                            <img src="images/ppc/amazon-adjusting.png"  class="mobile-carousel-dm-img" alt="">
-                        
-                            <div class="ecommerce-body text-dm-mobile">
-                                <p class="m-dm-carousel-card-text">
-                                After completing the competitor & market research we work on
-                                the analysis of the keyword by using different tools like Jungle
-                                Scout, Helium 10. Based on our research we create a list of
-                                keywords that we want to target and prioritize based on
-                                relevance and search volume. 
-                                </p>
-                            </div>
-                          
-                        </div>
-                       
-                        <div class="item">
-                            <h3>In your amazon growth strategy</h3>
-                            <h1>Analysis Data & Reporting</h1>
+                            <h3>In your Shopify E-commerce growth strategy</h3>
+                            <h1>Nulla non quam</h1>
                          
                             <img src="images/ppc/amazon-analysis.png"  class="mobile-carousel-dm-img" alt="">
                         
                             <div class="ecommerce-body text-dm-mobile">
                                 <p class="m-dm-carousel-card-text">
-                                After completing the competitor & market research we work on
-                                the analysis of the keyword by using different tools like Jungle
-                                Scout, Helium 10. Based on our research we create a list of
-                                keywords that we want to target and prioritize based on
-                                relevance and search volume. 
+                                Nulla non quam quam. Praesent vehicula faucibus felis. Donec varius rhoncus ex, nec mollis neque ullamcorper a. Nullam sit amet pretium mauris. Vivamus finibus est at lacus suscipit, a ullamcorper sapien varius. Etiam tortor nulla, commodo ut efficitur et, viverra blandit odio. Proin at volutpat erat, et tempor velit.
                                 </p>
                             </div>
                           

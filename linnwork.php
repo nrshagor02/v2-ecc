@@ -185,46 +185,7 @@
     
     
 
-  <section>
-    <div class="amazon-container driving-bg mobile-hide tablet-hide">
-        <div class="amazon-drive-row">
-            <div class="driving-left">
-                <img src="images/datamanagement/driving_groth.png" alt="">
-            </div>
-            <div class="driving-right">
-                <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1100">
-                    <h4>Why Choose Us</h4>
-                    <h2>In your Sellbrite growth strategy, 
-                        Why should you trust our PPC experts ?</h2>
-                </div>
-                <p>We have specialized teams with specific skills and customers handling
-                    experience in Sellbrite. We can help on customer convenience, 
-                    faster resolution time, consistent customer experience, efficient team 
-                    productivity and scalability support. Also, our team of experts is certified
-                    by Sellbrite learning console. 95% of our clients see improvement in
-                    performance within 4 weeks.
-                    </p>
 
-                <div class="designer-button">
-                    <div class="designer-middle-button">
-                        <p class="designer-middle-btnText">I am convinced</p>
-                        <div class="designer-middle-btnTwo">
-                            <a href="pricing.php">
-                                <p class="designer-middle-btnText2">Show me pricing</p>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="designer-middle-button">
-                        <p class="designer-middle-btnText">Get free trial</p>
-                        <div class="designer-middle-btnTwo">
-                            <p class="designer-middle-btnText2" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                Sends details</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <div class="m-choose-us-container mobile-show tablet-show">
         <div class="ecom-row">

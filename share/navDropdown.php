@@ -38,7 +38,7 @@
             <div class="dropdown-body-1">
                 <div class="dropdown-right-body">
                     <div class="nav-link-container">
-                    <a href="#" class="home-link">Marketplace Data Entry</a>
+                    <a href="dataManagement.php" class="home-link">Marketplace Data Entry</a>
                     </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="amazon.php">
@@ -135,7 +135,7 @@
             <div class="dropdown-body-2">
                 <div class="dropdown-right-body">
                     <div class="nav-link-container">
-                    <a href="#" class="home-link">Sponsor Ads Management</a>
+                    <a href="ppc.php" class="home-link">Sponsor Ads Management</a>
                     </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="amazonPPC.php">
@@ -208,7 +208,7 @@
             <div class="dropdown-body-3">
                 <div class="dropdown-right-body">
                     <div class="nav-link-container">
-                    <a href="#" class="home-link">Digital Marketing</a>
+                    <a href="digitalMarketing.php" class="home-link">Digital Marketing</a>
                     </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="emailMarketing.php"  class="ecc-d-flex">
@@ -237,7 +237,7 @@
             <div class="dropdown-body-4">
                 <div class="dropdown-right-body">
                 <div class="nav-link-container">
-                    <a href="#" class="home-link">Website Development</a>
+                    <a href="websiteDevelopment.php" class="home-link">Website Development</a>
                     </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <!-- <a href="magneto.php">
@@ -268,7 +268,7 @@
             <div class="dropdown-body-5">
                 <div class="dropdown-right-body">
                 <div class="nav-link-container">
-                    <a href="#" class="home-link">Creative Graphic Services</a>
+                    <a href="creativeGraphics.php" class="home-link">Creative Graphic Services</a>
                     </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="Apluscontentdesign.php" class="ecc-d-flex">
@@ -311,7 +311,7 @@
                 </div>
                 <div class="dropdown-right-body-2">
                     <div class="nav-link-container">
-                    <a href="#" class="home-link">Creative Graphic Used Software</a>
+                    <a href="creativeGraphics.php" class="home-link">Creative Graphic Used Software</a>
                     </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
                         <a href="#" class="ecc-d-flex">
@@ -340,46 +340,46 @@
             <div class="dropdown-body-6">
                 <div class="dropdown-right-body">
                     <div class="nav-link-container">
-                    <a href="#" class="home-link">Customer Support</a>
+                    <a href="customerSupport.php" class="home-link">Customer Support</a>
                     </div>
                     <div class="dropdown-right-body-logo mmt-col-4">
-                        <a href="emailMarketing.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Responding Customer <br> Inquiries </div>
                         </a>
-                        <a href="socialDesign.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Resolve Customer <br> Complaints & Issues</div>
                         </a>
-                        <a href="leadGeneration.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Order Processing <br> & Management</div>
                         </a>
-                        <a href="googlePPC.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Return, Refund <br> & Replacement Processing </div>
                         </a>
-                        <a href="ppc-overstock.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Shipping Carrier <br> Management </div>
                         </a>
-                        <a href="ppc-target.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Warehouse, Manufacturer <br> & Freight Forwarder Management</div>
                         </a>
-                        <a href="ppc-target.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Shipment Creation<br> & Tracking </div>
                         </a>
-                        <a href="ppc-target.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Contacting Marketplace <br> Support</div>
                         </a>
-                        <a href="ppc-target.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Feedback & Review <br> Management</div>
                         </a>
-                        <a href="ppc-target.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Social Media <br> Support</div>
                         </a>
-                        <a href="ppc-target.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Inbound Sales <br> Management</div>
                         </a>
-                        <a href="ppc-target.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Invoice & Shipping <br> Label Management</div>
                         </a>
-                        <a href="ppc-target.php" class="ecc-d-flex">
+                        <a href="subcustomerSupport.php" class="ecc-d-flex">
                             <img src="images/dropdown-img/seo.png" alt=""><div>Reporting: Order Report <br> & Performance Report</div>
                         </a>
                     </div>

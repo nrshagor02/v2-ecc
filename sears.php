@@ -143,7 +143,7 @@
 
 
 <section>
-    <div class="amazon-container driving-bg mobile-hide tablet-hide">
+    <div class="growth-container  driving-bg mobile-hide tablet-hide">
         <div class="amazon-drive-row">
             <div class="driving-left">
                 <img src="images/datamanagement/driving_groth.png" alt="">

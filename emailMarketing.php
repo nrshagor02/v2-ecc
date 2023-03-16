@@ -133,7 +133,7 @@ and managing advertising campaigns. Advertise to Millions! Boost Your Sales By 4
 
 
 <section>
-    <div class="amazon-container driving-bg mobile-hide tablet-hide">
+    <div class="growth-container  driving-bg mobile-hide tablet-hide">
         <div class="amazon-drive-row">
             <div class="driving-left">
                 <img src="images/datamanagement/driving_groth.png" alt="">

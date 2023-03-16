@@ -149,9 +149,9 @@ a.nav-icon-r {
   border: 1px solid transparent;
 }
 .spin:hover:before {
-  border-top-color: white;
-  border-right-color: white;
-  border-bottom-color: white;
+  border-top-color: rgb(255, 255, 255);
+  border-right-color: rgb(255, 255, 255);
+  border-bottom-color: rgb(255, 255, 255);
   transition: border-top-color 0.15s linear,
     border-right-color 0.15s linear 0.1s, border-bottom-color 0.15s linear 0.2s;
 }
@@ -161,7 +161,7 @@ a.nav-icon-r {
 }
 
 .spin:hover:after {
-  border-top: 1px solid white;
+  border-top: 1px solid rgb(255, 255, 255);
   border-left-width: 1px;
   border-right-width: 1px;
   transform: rotate(270deg);
@@ -755,7 +755,6 @@ div.circle-data {
 
 .e-main {
   margin-top: 20vh;
-  margin-left: 45vh;
 }
 
 .e-commerce-container {
@@ -2134,7 +2133,7 @@ span.biram-chinno-rev {
     margin-left: 0vw;
     /* margin-right: 9vw; */
     margin-top: 10vh;
-    width: 2560px;
+    width: 1522px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -2226,7 +2225,12 @@ span.biram-chinno-rev {
     margin-left: auto;
     margin-right: auto;
   }
-
+  .e-commerce-row {
+    gap: 10vw;
+  }
+  .e-left-margin {
+    margin-bottom: 20vh;
+  }
   /* .review-container {
     width: 1522px;
     margin-left: auto;

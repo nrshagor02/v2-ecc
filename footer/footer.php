@@ -528,6 +528,18 @@
 <script>
 AOS.init();
 </script>
+<script>
+
+    function hover(element) {
+        img = element.querySelector("#service-plus")
+  img.setAttribute('src', 'images/icon/discover-plus.png');
+}
+
+function unhover(element) {
+   img = element.querySelector("#service-plus")
+  img.setAttribute('src', 'images/icon/Pluse.png');
+}
+</script>
 
 <script type="text/javascript">
 jQuery("#carouselBrand").owlCarousel({
@@ -566,7 +578,7 @@ jQuery("#carouselBrand").owlCarousel({
 
 
 jQuery("#carouselAward").owlCarousel({
-    autoplay: false,
+    autoplay: true,
     loop: true,
     margin: 10,
     /*

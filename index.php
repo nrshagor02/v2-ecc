@@ -119,10 +119,16 @@
                             quos deleniti rerum quisquam. Fuga, neque facere! Distinctio ab quidem illum voluptas
                             adipisci modi laudantium praesentium quaerat, mollitia cum facere?</p>
                     </div>
-                    <div class="e-commerce-icon">
-                        <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about data management Services</p>
-                    </div>
+                    <a href="dataManagement.php" class="home-tablet-hide e-commerce-link" onmouseover="hover(this);" onmouseout="unhover(this);">
+                            <div class="hero-icon">
+                                <div class="discover-icon">
+                                    <div class="discover-plus">
+                                        <img src="images/icon/Pluse.png" id="service-plus"  alt="">
+                                    </div>
+                                </div>
+                                <p>Know about data management services </p>
+                            </div>
+                        </a>
                 </div>
                 <div class="e-left-margin ">
                     <div class="e-commerce-header">
@@ -137,10 +143,16 @@
                             inventore eum doloribus suscipit architecto, molestiae iste recusandae nam eveniet accusamus
                             natus, animi id quibusdam voluptatem minima deleniti cum quae, autem quas.</p>
                     </div>
-                    <div class="e-commerce-icon">
-                        <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about sponsored ad Services</p>
-                    </div>
+                    <a href="ppc.php" class="home-tablet-hide e-commerce-link" onmouseover="hover(this);" onmouseout="unhover(this);">
+                            <div class="hero-icon">
+                                <div class="discover-icon">
+                                    <div class="discover-plus">
+                                        <img src="images/icon/Pluse.png" id="service-plus"  alt="">
+                                    </div>
+                                </div>
+                                <p>Know about sponsored ad services</p>
+                            </div>
+                        </a>
                 </div>
                 <div class="e-left-margin">
                     <div class="e-commerce-header">
@@ -156,10 +168,16 @@
                             eum perspiciatis consectetur? Tempore rerum alias reprehenderit consectetur, tempora quos!
                         </p>
                     </div>
-                    <div class="e-commerce-icon">
-                        <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about digital marketing services</p>
-                    </div>
+                    <a href="digitalMarketing.php" class="home-tablet-hide e-commerce-link" onmouseover="hover(this);" onmouseout="unhover(this);">
+                            <div class="hero-icon">
+                                <div class="discover-icon">
+                                    <div class="discover-plus">
+                                        <img src="images/icon/Pluse.png" id="service-plus"  alt="">
+                                    </div>
+                                </div>
+                                <p>Know about digital marketing services</p>
+                            </div>
+                        </a>
                 </div>
                 <div class="e-left-margin">
                     <div class="e-commerce-header">
@@ -175,10 +193,16 @@
                             quos ratione labore quod cupiditate? Harum, asperiores laudantium fugiat itaque repellendus
                             at maiores?</p>
                     </div>
-                    <div class="e-commerce-icon">
-                        <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about webiste development services</p>
-                    </div>
+                    <a href="websiteDevelopment.php" class="home-tablet-hide e-commerce-link" onmouseover="hover(this);" onmouseout="unhover(this);">
+                            <div class="hero-icon">
+                                <div class="discover-icon">
+                                    <div class="discover-plus">
+                                        <img src="images/icon/Pluse.png" id="service-plus"  alt="">
+                                    </div>
+                                </div>
+                                <p>Know about website development services</p>
+                            </div>
+                        </a>
                 </div>
                 <div class="e-left-margin">
                     <div class="e-commerce-header">
@@ -194,10 +218,16 @@
                             repellat necessitatibus, reprehenderit, placeat esse velit voluptatem, consequuntur est quia
                             quam ex?</p>
                     </div>
-                    <div class="e-commerce-icon">
-                        <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about creative graphics services</p>
-                    </div>
+                    <a href="creativeGraphics.php" class="home-tablet-hide e-commerce-link" onmouseover="hover(this);" onmouseout="unhover(this);">
+                            <div class="hero-icon">
+                                <div class="discover-icon">
+                                    <div class="discover-plus">
+                                        <img src="images/icon/Pluse.png" id="service-plus"  alt="">
+                                    </div>
+                                </div>
+                                <p>Know about creative graphics services</p>
+                            </div>
+                        </a>
                 </div>
                 <div class="e-left-margin-last circle-end">
                     <div class="e-commerce-header">
@@ -212,10 +242,16 @@
                             qui ratione. Tenetur accusamus libero, fuga quaerat, vel provident magnam tempora, officiis
                             nam suscipit magni blanditiis tempore optio dolor. Eligendi ut molestiae nisi.</p>
                     </div>
-                    <div class="e-commerce-icon">
-                        <img src="images/icon/home-hero-icon-blue.png" alt="">
-                        <p>Know about customer support services</p>
-                    </div>
+                    <a href="customerSupport.php" class="home-tablet-hide e-commerce-link" onmouseover="hover(this);" onmouseout="unhover(this);">
+                            <div class="hero-icon">
+                                <div class="discover-icon">
+                                    <div class="discover-plus">
+                                        <img src="images/icon/Pluse.png" id="service-plus"  alt="">
+                                    </div>
+                                </div>
+                                <p>Know about customer support services</p>
+                            </div>
+                        </a>
                 </div>
                 <div class="ecommerce-progress-bar">
 
@@ -922,7 +958,7 @@
                 <div class="expert-left-icon">
                     <div class="competitor-left-1" id="competitor-left-1">
                         <img src="images/img-1/competitor-1.png" alt="">
-                        <p class="competitor-p1">Identyfy <br> compititor</p>
+                        <p class="competitor-p1">Identify <br> Compeititor</p>
 
                     </div>
                     <div class="competitor-left-2" id="competitor-left-2">

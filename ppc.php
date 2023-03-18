@@ -5,7 +5,7 @@
 ?>
 
 <section>
-    <div class="ppc-hero-bg" id="back">
+    <div class="ppc-hero-bg hide-desktop" id="back">
         <div class="ppc-hero-container">
             <div class="hero-row">
                 <div class="ppc-hero-left">
@@ -14,7 +14,7 @@
                         <h1 class="">In House Team <br>
                             For <span style="color: #FFC8D6;" class="hero-text-line">Sponsored Ad</span>
                         </h1>
-                        <a href="portfolio.php">
+                        <a href="portfolio.php" class="home-mobile-hide">
                             <div class="hero-icon">
                                 <div class="discover-icon">
                                     <div class="discover-plus">
@@ -25,7 +25,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="hero-left-button">
+                    <div class="hero-left-button home-mobile-hide">
                         <div class="hero-middle-button">
                             <p class="hero-middle-btnText">Get free consultation</p>
                             <div class="hero-middle-btnTwo">
@@ -34,30 +34,36 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="ppc-hero-right">
                     <img src="images/ppc/ppc-hero.png" alt="" class="ppc-hero-image">
                     <div class="glass-effect-dataM data-position-1">
-                        <img src="images/datamanagement/logo-amazon-jaune.png" alt="">
-                        <p>All In One Amazon <br>
-                            Services</p>
+                        <img src="images/ppc/graph-logo.png" alt="">
+              
                     </div>
                     <div class="glass-effect-dataM data-position-2 ecc-d-flex ">
-                        <img src="images/datamanagement/handshake-o.png" alt="">
+                        <img src="images/datamanagement/handshake-o.png" class="logo-home"  alt="">
                         <p class="ecc-ml-10">99.99% <br>
                             Client Satisfaction</p>
                     </div>
                     <div class="glass-effect-dataM data-position-3 ecc-d-flex">
-                        <img src="images/datamanagement/award.png" alt="">
-                        <p class="ecc-ml-10">Profit-Oriented <br>
-                            Business Plan</p>
+                        <img src="images/datamanagement/award.png" class="logo-home"  alt="">
+                        <p class="ecc-ml-10">300k+<br>
+                            Project </p>
                     </div>
                     <div class="glass-effect-dataM data-position-4">
-                        <img src="images/datamanagement/calendar3.png" alt="">
+                        <img src="images/datamanagement/calendar3.png" class="logo-home"  alt="">
                         <p>12 years <br>
                             Expreance</p>
-                        <img src="images/datamanagement/star.png" alt="">
+                        <img src="images/datamanagement/star.png" class="star-logo-home"  alt="">
+                    </div>
+                    <div class="circle-ppc-bg">
+                    </div>
+                    <div class="hero-middle-button middle-button">
+                            <p class="hero-middle-btnText">Get free consultation</p>
                     </div>
                 </div>
+
                 <div class="ecomclips">
                     <div class="ecomclips-right-logo">
                         <span><img src="images/img/ecomclips.png" alt=""></span>
@@ -77,7 +83,7 @@
 </section>
 
 <section>
-    <div class="company-stats-container">
+    <div class="company-stats-container home-mobile-hide">
         <div class="company-stats-row">
             <div class="company-stats-left">
                 <div>
@@ -139,19 +145,57 @@
             </div>
         </div>
     </div>
+
+    <div class="mobile-company-stats-container">
+        <div class="mobile-company-content-left">
+                <div class="company-border">
+                <h3>Company Stats</h3>
+                    <h1>$357M</h1>
+                    <h3>Revenue Genearted</h3>
+                </div> 
+                <div class="company-border">
+                    <h2>92%</h2>
+                    <p>Of Clients Have Double Their
+                        Revenue In Their Fast  Year
+                        With Ecomclips</p>
+                </div>    
+                <div class="company-border">
+                    <h2>122</h2>
+                    <p>
+                    Delivering Ads To 122 Countries
+                    Their Revenue Fast  Year  </p>
+                </div>   
+                <div class="company-border">
+                    <h2>12,721</h2>
+                    <p>
+                    High Volume Creatives
+                    Produced A Month</p>
+                </div>   
+                <div class="company-border">
+                    <h2>21</h2>
+                    <p>Startup Investment</p>
+                </div>   
+           </div> 
+        <div class="mobile-company-content-right">
+            <img src="./images/ppc/award-01.png" alt="">
+            <img src="./images/ppc/award-02.png" alt="">
+            <img src="./images/ppc/award-03.png" alt="">
+            <img src="./images/ppc/award-04.png" alt="">
+        </div>
+    </div>
 </section>
 
 <section>
     <div class="ppc-video-container">
         <div class="ppc-video-row">
-            <img src="images/ppc/ppc-video.png" alt="">
+            <img src="images/ppc/ppc-video.png" class="ppc-hero-image" alt="">
             <div class="ppc-video-content">
                 <div>
-                    <img src="images/icon/video-play.png" alt="">
+                    <img class="ppc-hero-image" src="images/icon/video-play.png"  alt="">
                 </div>
                 <div class="ppc-video-text">
                     <h2>Sponsored Ads Services.</h2>
-                    <p>Lift your business to new heights with our Lift your business to new heights with our Lift
+                    <p class="home-mobile-hide">Lift your business to new heights with our Lift your business to new heights with our Lift
                         your business to new heights with our</p>
                 </div>
             </div>
@@ -167,9 +211,9 @@
                 <p>Show Your Project</p>
                 <h2>Our Portfolio</h2>
             </div>
-            <div class="dropdown-right-body-logo mmt-col-3">
+            <div class="dropdown-right-body-logo">
                 <div class="ppc-portfolio-image-div">
-                    <img src="images/ppc/ppc-portfolio-1.png" alt="">
+                    <img src="images/ppc/ppc-portfolio-1.png" class="ppc-hero-image" alt="">
                     <div class="portfolio-middle">
                         <h4>Amazon Case Study</h4>
                         <a href="amazonPPC.php">View more</a>
@@ -179,7 +223,7 @@
                     </div>
                 </div>
                 <div class="ppc-portfolio-image-div">
-                    <img src="images/ppc/ppc-portfolio-2.png" alt="">
+                    <img src="images/ppc/ppc-portfolio-2.png" class="ppc-hero-image" alt="">
                     <div class="portfolio-middle">
                         <h4>Walmart Case Study</h4>
                         <a href="#">View more</a>
@@ -189,7 +233,7 @@
                     </div>
                 </div>
                 <div class="ppc-portfolio-image-div">
-                    <img src="images/ppc/ppc-portfolio-3.png" alt="">
+                    <img src="images/ppc/ppc-portfolio-3.png" class="ppc-hero-image" alt="">
                     <div class="portfolio-middle">
                         <h4>Wayfair Case Study</h4>
                         <a href="#">View more</a>
@@ -199,7 +243,7 @@
                     </div>
                 </div>
                 <div class="ppc-portfolio-image-div">
-                    <img src="images/ppc/ppc-portfolio-4.png" alt="">
+                    <img src="images/ppc/ppc-portfolio-4.png" class="ppc-hero-image" alt="">
                     <div class="portfolio-middle">
                         <h4>Overstock Case Study</h4>
                         <a href="#">View more</a>
@@ -209,7 +253,7 @@
                     </div>
                 </div>
                 <div class="ppc-portfolio-image-div">
-                    <img src="images/ppc/ppc-portfolio-5.png" alt="">
+                    <img src="images/ppc/ppc-portfolio-5.png" class="ppc-hero-image" alt="">
                     <div class="portfolio-middle">
                         <h4>Ebay Case Study</h4>
                         <a href="#">View more</a>
@@ -219,7 +263,7 @@
                     </div>
                 </div>
                 <div class="ppc-portfolio-image-div">
-                    <img src="images/ppc/ppc-portfolio-6.png" alt="">
+                    <img src="images/ppc/ppc-portfolio-6.png" class="ppc-hero-image" alt="">
                     <div class="portfolio-middle">
                         <h4>Target Case Study</h4>
                         <a href="#">View more</a>
@@ -239,14 +283,14 @@
             <div class="impact-left">
                 <h2>Get an Impact on Your Amazon Business to Grow More</h2>
                 <div>
-                    <button class="ppc-btn">Get a free audit</button>
+                    <button class="ppc-btn home-mobile-hide">Get a free audit</button>
                 </div>
             </div>
             <div class="impact-right">
                 <div class="impact-right-1" id="impact-right-1">
                     <div>
-                        <div class="ecc-d-flex">
-                            <img src="images/ppc/search.png" alt="">
+                        <div class="ecc-d-flex center-d-flex">
+                            <img src="images/ppc/search.png" class="mobile-impact-logo" alt="">
                             <p class="ecc-ml-20">Listing Audit & Competitor research</p>
                         </div>
                         <div class="ecc-mt-40">
@@ -264,8 +308,8 @@
                 </div>
                 <div class="impact-right-1" id="impact-right-2">
                     <div>
-                        <div class="ecc-d-flex">
-                            <img src="images/ppc/build-outline.png" alt="">
+                        <div class="ecc-d-flex center-d-flex">
+                            <img src="images/ppc/build-outline.png"  class="mobile-impact-logo" alt="">
                             <p class="ecc-ml-20">Build strategy</p>
                         </div>
                         <div class="ecc-mt-40">
@@ -279,8 +323,8 @@
                 </div>
                 <div class="impact-right-1" id="impact-right-3">
                     <div>
-                        <div class="ecc-d-flex">
-                            <img src="images/ppc/keyword.png" alt="">
+                        <div class="ecc-d-flex center-d-flex">
+                            <img src="images/ppc/keyword.png"  class="mobile-impact-logo" alt="">
                             <p class="ecc-ml-20">Keyword Research</p>
                         </div>
                         <div class="ecc-mt-40">
@@ -295,8 +339,8 @@
                 </div>
                 <div class="impact-right-1" id="impact-right-4">
                     <div>
-                        <div class="ecc-d-flex">
-                            <img src="images/ppc/Digital-Marketing-icon.png" alt="">
+                        <div class="ecc-d-flex center-d-flex">
+                            <img src="images/ppc/Digital-Marketing-icon.png"  class="mobile-impact-logo" alt="">
                             <p class="ecc-ml-20">Campaigns Create</p>
                         </div>
                         <div class="ecc-mt-40">
@@ -310,8 +354,8 @@
                 </div>
                 <div class="impact-right-1" id="impact-right-5">
                     <div>
-                        <div class="ecc-d-flex">
-                            <img src="images/ppc/ads.png" alt="">
+                        <div class="ecc-d-flex center-d-flex">
+                            <img src="images/ppc/ads.png"  class="mobile-impact-logo" alt="">
                             <p class="ecc-ml-20">Optimize Ads</p>
                         </div>
                         <div class="ecc-mt-40">
@@ -328,8 +372,8 @@
                 </div>
                 <div class="impact-right-1" id="impact-right-6">
                     <div>
-                        <div class="ecc-d-flex">
-                            <img src="images/ppc/track.png" alt="">
+                        <div class="ecc-d-flex center-d-flex">
+                            <img src="images/ppc/track.png"  class="mobile-impact-logo" alt="">
                             <p class="ecc-ml-20">Track Result & reporting</p>
                         </div>
                         <div class="ecc-mt-40">

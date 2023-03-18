@@ -19,10 +19,10 @@
     <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-Regular.ttf" as="font"  crossorigin>
     <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-SemiBold.ttf" as="font"  crossorigin>
     <link rel="preload" href="/ecc-v2-php/Font/aceh-www.Dfonts.org/Aceh/WEB/Aceh-Medium.ttf" as="font" crossorigin>
-
-
     <link rel="preload" href="/ecc-v2-php/Font/Raleway-Font/Raleway-Regular.ttf" as="font" crossorigin>
     <link rel="preload" href="/ecc-v2-php/Font/Raleway-Font/Raleway-Medium.ttf" as="font" crossorigin>
+
+ 
  
 
   
@@ -37,6 +37,7 @@
     <link rel="stylesheet" href="css/dataManagement.css" />
     <link rel="stylesheet" href="css/amazon.css" />
     <link rel="stylesheet" href="css/footer.css" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <!-- <link rel="stylesheet" href="css/test.css" /> -->
     <!-- font awesome-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
